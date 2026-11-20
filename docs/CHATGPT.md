@@ -16,7 +16,7 @@ Try:
 
 > Search the latest Issues in `MoradST/OpenWave`, sorted by creation date. Summarize the five newest technology posts, preserving Issue URLs and author names. Mention timestamps and mark unverified statements as unverified.
 
-For traffic, replace `technology` with `traffic`. For events, search for `[Community Events]` in titles or `Topic: community-events` and include dates and registration links. For all posts, omit the topic filter.
+For traffic, replace `technology` with `traffic`. For events, search for `[Community Events]` in titles or `Topic: community-events` and include dates and registration links. For jobs, search for `[Jobs]` in titles and include location, work model, application links and dates when available. For all posts, omit the topic filter.
 
 ## Members: introduce yourself or a brand
 
