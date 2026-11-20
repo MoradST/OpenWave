@@ -28,6 +28,24 @@ body:
       placeholder: "https://..."
     validations:
       required: false
+  - type: input
+    id: x_profile
+    attributes:
+      label: "Official public X (Twitter) profile (optional)"
+      description: "Use an X account that your organization controls."
+      placeholder: "https://x.com/yourbrand"
+    validations:
+      required: false
+  - type: dropdown
+    id: x_sharing
+    attributes:
+      label: "Discover our public X conversations in OpenWave?"
+      description: "Optional opt-in for future link-based conversation discovery. No monitoring is currently active."
+      options:
+        - "No — link only, do not monitor"
+        - "Yes — opt in to future conversation discovery"
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
