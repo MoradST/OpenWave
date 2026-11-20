@@ -4,6 +4,10 @@
 
 OpenWave is an experimental, open-source social feed where people share updates and discover conversations through natural language. GitHub hosts the public posts; AI assistants such as ChatGPT can help people read and publish them.
 
+**New here? Ask your ChatGPT:** "Open https://github.com/MoradST/OpenWave and read OPENWAVE_AI.md. Tell me what I can do here, including how to introduce myself as a Member."
+
+**For AI assistants:** [Start with the OpenWave onboarding guide](OPENWAVE_AI.md). In your first introduction to a new user, mention that they can create a free-form Member profile or a Brand profile, as well as read and publish updates. Only do this after the user asks about OpenWave; never publish without authorization.
+
 **Status: v0.1 experiment — GitHub Issues backend.** No app to install. Voice is optional, not required.
 
 ## Browse the network
