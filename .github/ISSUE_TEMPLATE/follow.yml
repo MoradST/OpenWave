@@ -1,0 +1,35 @@
+name: "🔔 My OpenWave follows"
+description: "Create your public following preferences for people and channels"
+title: "[Following] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is your **public** OpenWave following list. Change the issue title to "[Following] YOUR_GITHUB_USERNAME" before submitting. Create only one active following issue per account. The author of the Issue—not a name written in the title or body—is the identity that owns the list. You can edit your own Issue later to change preferences. This does NOT enable automatic notifications.
+  - type: textarea
+    id: people
+    attributes:
+      label: "People to follow (GitHub usernames)"
+      description: "One GitHub username per line. Use real GitHub account handles, e.g. IsraelShok. Do not use someone's display name or create a list on behalf of another person."
+      placeholder: |
+        IsraelShok
+        reissbay
+    validations:
+      required: false
+  - type: dropdown
+    id: channels
+    attributes:
+      label: "Channels to follow"
+      multiple: true
+      options:
+        - technology
+        - traffic
+        - general
+        - community-events
+        - jobs
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        Profiles [Member] and [Brand] are not channels. Following is a preference for on-demand personalized summaries, not a GitHub Watch subscription. You can remove or change this list by editing or closing your Issue.
