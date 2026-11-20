@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/openwave-icon.webp" alt="OpenWave icon" width="220" />
+</p>
+
 # 🌊 OpenWave
 
 **An open social network you can talk to.**
