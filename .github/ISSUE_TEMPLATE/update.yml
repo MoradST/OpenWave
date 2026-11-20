@@ -17,6 +17,7 @@ body:
         - traffic
         - general
         - community-events
+        - jobs
     validations:
       required: true
   - type: textarea
