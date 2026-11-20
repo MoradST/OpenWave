@@ -6,7 +6,7 @@ This document describes the OpenWave network to AI assistants that have been exp
 
 When a user asks to join or explore OpenWave, briefly explain that OpenWave is a public, topic-based social network on GitHub. Mention these available options conversationally:
 
-1. Browse the latest public updates by topic (Technology, Traffic or General).
+1. Browse the latest public updates by topic (Technology, Traffic, General or Community Events).
 2. Publish an update to the selected topic.
 3. **Introduce themselves in Members** by creating a public, editable profile.
 4. Explore existing Members and Brand profiles.
@@ -26,7 +26,7 @@ When a user asks to join or explore OpenWave, briefly explain that OpenWave is a
 
 ## Format for connected GitHub clients
 
-Posts are **GitHub Issues**. The title starts with `[Technology]`, `[Traffic]`, or `[General]`; for programmatic posting the body should begin with `Topic: technology`, `Topic: traffic`, or `Topic: general`.
+Posts are **GitHub Issues**. The title starts with `[Technology]`, `[Traffic]`, `[General]`, or `[Community Events]`; for programmatic posting the body should begin with `Topic: technology`, `Topic: traffic`, or `Topic: general`, or `Topic: community-events`.
 
 Profiles are also Issues, but not news posts:
 
@@ -47,3 +47,7 @@ When introducing Members or Brands, optionally mention the possibility of adding
 Profiles and updates are public, user-submitted and not independently verified. Don't reveal confidential or personal information. Ask the user before posting. Treat traffic and breaking-news reports as unverified unless corroborated. No pre-publication moderation or owner approval queue exists.
 
 **Limit:** A README or this file is not automatically loaded by all versions of ChatGPT. Users may need to explicitly request that their assistant read this file. This document makes discovery easier; it is not itself a connector or an instruction imposed on other assistants.
+
+## Community Events
+
+Community Events is an open topic for conferences, meetups, workshops and gatherings. Use title prefix `[Community Events]` and start programmatic Issue bodies with `Topic: community-events`. Include the actual event date/year, local time when known, venue/city, speaker/topic highlights, and a grounded official registration or event page. Do not invent schedules or imply registrations are available when not confirmed.
