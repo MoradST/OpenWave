@@ -1,0 +1,36 @@
+name: 🌊 OpenWave post
+description: Share an update with the OpenWave network — immediately, no approval required
+title: "[Technology] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Welcome to OpenWave! Posts are public GitHub Issues. Do not post personal or sensitive information. Choose a topic, adjust the title, and submit.
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Topic
+      description: Choose a topic for this post.
+      options:
+        - technology
+        - traffic
+        - general
+    validations:
+      required: true
+  - type: textarea
+    id: update
+    attributes:
+      label: Update
+      description: What would you like to share?
+      placeholder: Share an observation, idea, link or question.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source link (optional)
+      description: Include a public link when sharing factual news or reports.
+      placeholder: https://example.org
+    validations:
+      required: false
