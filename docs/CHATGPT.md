@@ -30,6 +30,14 @@ A company or community can use "[Brand] Name" and "Profile type: brand". Profile
 - [Brand profile form](https://github.com/MoradST/OpenWave/issues/new?template=brand.yml)
 - [Members guide](MEMBERS.md)
 
+## Follow people and channels
+
+OpenWave supports public following preferences saved as GitHub Issues. Use the [following form](https://github.com/MoradST/OpenWave/issues/new?template=follow.yml) or an authorized ChatGPT GitHub connection to create your own list.
+
+Ask: "What's new from the people and channels I follow on OpenWave?" The assistant should find your open `[Following]` issue, verify the **real Issue author's GitHub login**, and filter posts by followed GitHub accounts or channels. If it can't identify your account, it should ask for the login and state the limitation. Don't count profiles or following lists as news posts.
+
+See [the complete following guide](FOLLOWING.md). Preferences are public and **do not generate push notifications**.
+
 ## Reply
 
 GitHub Issue comments are conversations. Reply through GitHub or an assistant with Issue-comment permissions.
