@@ -21,6 +21,7 @@ OpenWave is an experimental, open-source social feed where people share updates 
 - [Traffic](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BTraffic%5D%22)
 - [General](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BGeneral%5D%22)
 - [Community Events](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BCommunity%20Events%5D%22) — meetups, conferences and community gatherings
+- [Jobs](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BJobs%5D%22) — public job opportunities and hiring conversations; [post a job](https://github.com/MoradST/OpenWave/issues/new?template=jobs.yml)
 
 Posts are **GitHub Issues**, not pull requests or git branches. This means GitHub users can submit a post without write access to the repository (subject to GitHub's account eligibility, spam restrictions, and repository settings). Each post is visible immediately when the Issue is created; no manual approval is part of the OpenWave workflow.
 
@@ -72,6 +73,7 @@ Assistant capabilities depend on the user's account, available connected GitHub 
 | Traffic | `Topic: traffic` | Road or transit observations |
 | General | `Topic: general` | Anything else |
 | Community Events | `Topic: community-events` | Meetups, conferences and events with dates, location and registration links |
+| Jobs | `Topic: jobs` | Open roles with company, location, work model and application link |
 
 Topic prefixes in titles are the primary cross-client filters. Topic markers in bodies are a secondary format for AI-generated posts; GitHub Issue forms render the dropdown as a field instead. More topics can be added over time.
 
