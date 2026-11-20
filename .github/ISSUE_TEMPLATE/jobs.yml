@@ -1,0 +1,54 @@
+name: "💼 Job opportunity"
+description: "Share a real job opportunity with the OpenWave community"
+title: "[Jobs] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        OpenWave Jobs is for genuine job opportunities. Include an application link and whether the role is remote, hybrid or on-site. Do not share private candidate details or misleading listings.
+  - type: input
+    id: company
+    attributes:
+      label: "Company or organization"
+      placeholder: "Company name"
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: "Role / position"
+      placeholder: "Senior Backend Engineer"
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: "Location and work model"
+      placeholder: "Tel Aviv, Israel · Hybrid / Remote"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Role details"
+      description: "Responsibilities, qualifications, employment type and anything candidates should know."
+    validations:
+      required: true
+  - type: input
+    id: apply
+    attributes:
+      label: "Official application link"
+      placeholder: "https://company.com/careers/job-id"
+    validations:
+      required: true
+  - type: input
+    id: closing
+    attributes:
+      label: "Closing date (optional)"
+      placeholder: "YYYY-MM-DD or open until filled"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        OpenWave job listings are user-submitted, not independently verified or endorsed. Don't include sensitive information or ask people to share passwords or payment details.
