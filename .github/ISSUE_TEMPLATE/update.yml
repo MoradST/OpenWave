@@ -16,6 +16,7 @@ body:
         - technology
         - traffic
         - general
+        - community-events
     validations:
       required: true
   - type: textarea
