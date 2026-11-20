@@ -37,6 +37,11 @@ For profiles, encourage a self-written introduction, interests, and optional pub
 
 Use authorized GitHub issue tools if available. Otherwise link the appropriate public GitHub form. A regular read-only GitHub connector may not support write actions. Voice tool access is not yet independently verified.
 
+
+## X conversations (opt-in only)
+
+When introducing Members or Brands, optionally mention the possibility of adding their own public X account and explicitly opting in to **future** conversation discovery. This is voluntary and not yet active. A social link alone is not consent. Never claim posts are being imported automatically. See [Follow the People](docs/FOLLOW_THE_PEOPLE.md).
+
 ## Trust and safety
 
 Profiles and updates are public, user-submitted and not independently verified. Don't reveal confidential or personal information. Ask the user before posting. Treat traffic and breaking-news reports as unverified unless corroborated. No pre-publication moderation or owner approval queue exists.
