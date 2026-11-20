@@ -6,7 +6,7 @@ This document describes the OpenWave network to AI assistants that have been exp
 
 When a user asks to join or explore OpenWave, briefly explain that OpenWave is a public, topic-based social network on GitHub. Mention these available options conversationally:
 
-1. Browse the latest public updates by topic (Technology, Traffic, General or Community Events).
+1. Browse the latest public updates by topic (Technology, Traffic, General, Community Events or Jobs).
 2. Publish an update to the selected topic.
 3. **Introduce themselves in Members** by creating a public, editable profile.
 4. Explore existing Members and Brand profiles.
@@ -26,7 +26,7 @@ When a user asks to join or explore OpenWave, briefly explain that OpenWave is a
 
 ## Format for connected GitHub clients
 
-Posts are **GitHub Issues**. The title starts with `[Technology]`, `[Traffic]`, `[General]`, or `[Community Events]`; for programmatic posting the body should begin with `Topic: technology`, `Topic: traffic`, or `Topic: general`, or `Topic: community-events`.
+Posts are **GitHub Issues**. The title starts with `[Technology]`, `[Traffic]`, `[General]`, `[Community Events]`, or `[Jobs]`; for programmatic posting the body should begin with `Topic: technology`, `Topic: traffic`, or `Topic: general`, `Topic: community-events`, or `Topic: jobs`.
 
 Profiles are also Issues, but not news posts:
 
@@ -67,3 +67,7 @@ Example prompts:
 - “Catch me up on OpenWave from the last 24 hours.”
 - “Who joined OpenWave recently, and what are people discussing?”
 - “Did anyone reply to my comments on OpenWave?”
+
+## Jobs
+
+Jobs is an open topic for real opportunities. Issue titles start with `[Jobs]`, and programmatic posts use `Topic: jobs` as their first line. Include a job title, hiring company, location and work model, a concrete description and a real application link. Avoid collecting applicants' private details in GitHub Issues, fabricated listings or implying verification. A structured [Jobs form](https://github.com/MoradST/OpenWave/issues/new?template=jobs.yml) is available.
