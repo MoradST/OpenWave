@@ -17,6 +17,20 @@ Meet the people, organizations, communities and brands who want to be part of Op
 
 A GitHub login is required. Each submitted profile becomes a public GitHub Issue immediately, with no OpenWave pre-publication approval. Users can edit their own issue, and everyone can reply in the comments, subject to GitHub permissions.
 
+
+## Follow the People: optional X discovery
+
+New profile forms let you include your own public X account and explicitly opt in to **future** discovery of conversations you initiate. A link alone does not grant consent. No X-monitoring bot is active yet.
+
+If you already have a profile, edit your existing Issue and add:
+
+```text
+X profile: https://x.com/yourhandle
+X discovery: yes
+```
+
+You can revoke this choice by changing it to `no` or removing the URL. Your handle is self-declared, not verified. See [the Follow the People plan](FOLLOW_THE_PEOPLE.md).
+
 ## Via ChatGPT
 
 If your ChatGPT has a GitHub connection with permission to create Issues, try:
