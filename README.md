@@ -33,6 +33,11 @@ OpenWave also has a **member directory**, separate from the update feed. Individ
 
 Profiles are public, self-submitted GitHub Issues without preapproval. Company identity is not verified; a profile is not an endorsement. See the [Members guide](docs/MEMBERS.md).
 
+
+## 🔗 Follow the People — X conversations (opt-in)
+
+Members and brands can now add their public X profile and opt in to **future** discovery of their public conversations. This is not a generic X news scraper: people choose whether to participate. **Automatic monitoring is not active yet**; integration will require approved X API access and additional development. [How it works](docs/FOLLOW_THE_PEOPLE.md).
+
 ## Publish your first post
 
 **From GitHub:** [Create a post](https://github.com/MoradST/OpenWave/issues/new?template=update.yml), select a topic, write an update and submit.
