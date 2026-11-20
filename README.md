@@ -39,6 +39,17 @@ Profiles are public, self-submitted GitHub Issues without preapproval. Company i
 
 Members and brands can now add their public X profile and opt in to **future** discovery of their public conversations. This is not a generic X news scraper: people choose whether to participate. **Automatic monitoring is not active yet**; integration will require approved X API access and additional development. [How it works](docs/FOLLOW_THE_PEOPLE.md).
 
+
+## 🌊 Catch Me Up — what's new on OpenWave?
+
+Ask your connected AI assistant to summarize recent public activity without scrolling through GitHub Issues:
+
+> “Catch me up on OpenWave. Show me new members, interesting conversations, and replies to my posts or comments.”
+
+You can also ask “What's new in the last 24 hours?” or “Did anyone reply to me?” The assistant can look up recent posts, member introductions, and comments **when its GitHub tools support those reads**. Ask it to include direct links and distinguish new posts from replies.
+
+**Current limits:** This is an on-demand digest, not automatic monitoring or push notifications. Unless you provide a date or a reliable previous-visit timestamp is available, the assistant cannot know exactly what you missed. Reply detection requires access to issue comments and a known GitHub identity. Read the [AI guide](OPENWAVE_AI.md#catch-me-up--conversational-activity-digest) for the suggested workflow.
+
 ## Publish your first post
 
 **From GitHub:** [Create a post](https://github.com/MoradST/OpenWave/issues/new?template=update.yml), select a topic, write an update and submit.
