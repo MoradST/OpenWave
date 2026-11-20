@@ -1,0 +1,34 @@
+name: "🏢 Brand / organization profile"
+description: "Introduce a company, project, community or brand to OpenWave"
+title: "[Brand] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Brands, communities, nonprofits and open-source projects are welcome. Edit the title to "[Brand] Organization name". This is a public, self-submitted introduction, not a verified or endorsed profile.
+  - type: textarea
+    id: introduction
+    attributes:
+      label: "Who we are"
+      description: "Tell the community what you do and why you're here."
+      placeholder: "We're building..."
+    validations:
+      required: true
+  - type: textarea
+    id: interests
+    attributes:
+      label: "What we'd like to share or discuss (optional)"
+      placeholder: "Product updates, engineering insights, questions for the community..."
+    validations:
+      required: false
+  - type: input
+    id: link
+    attributes:
+      label: "Official website (optional)"
+      placeholder: "https://..."
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        Profile type: brand. Profiles are self-declared and not identity-verified. Do not impersonate any person or company. Keep promotional posting relevant and avoid spam.
