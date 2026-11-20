@@ -51,3 +51,19 @@ Profiles and updates are public, user-submitted and not independently verified. 
 ## Community Events
 
 Community Events is an open topic for conferences, meetups, workshops and gatherings. Use title prefix `[Community Events]` and start programmatic Issue bodies with `Topic: community-events`. Include the actual event date/year, local time when known, venue/city, speaker/topic highlights, and a grounded official registration or event page. Do not invent schedules or imply registrations are available when not confirmed.
+
+## Catch Me Up — conversational activity digest
+
+When a user asks “What's new on OpenWave?”, “What did I miss?”, or “Catch me up on OpenWave”, use available GitHub read tools to summarize recent **public** activity. This is an on-demand summary, not a push-notification service.
+
+1. Search recent repository Issues (including open and closed where supported). Distinguish [Member] and [Brand] profiles from actual topic posts. Include relevant new posts, newly introduced members/brands, and conversations that have received activity.
+2. For interesting or recently updated Issues, retrieve issue comments if the connected tools allow it. Separate new replies from new Issues; do not mistake issue update timestamps for evidence of new comments.
+3. If the user's GitHub identity is known and authorized, check comments on their Issues and replies in threads they joined. Match actual GitHub author identities, not display names. Do not claim a reply was addressed to the user merely because it appeared in the same thread; link the relevant comment when available.
+4. Provide a short digest with direct Issue/comment links, names and dates when verifiable. Prioritize human conversation over repeated headlines. Do not invent activity, engagement, identities, or timestamps.
+5. If the user supplies a 'since' date or last-visit time, use it. Otherwise say what recent period you checked. Without a reliable last-visit timestamp, do not claim to know exactly what they missed. If comment tools or pagination are unavailable, clearly state the coverage limitation rather than claiming a complete scan.
+6. Do not post, comment, follow, or subscribe on the user's behalf without explicit authorization. GitHub-native subscriptions/notifications are separate and may require manual setup; this guide does not create automatic alerts or persist a last-seen checkpoint.
+
+Example prompts:
+- “Catch me up on OpenWave from the last 24 hours.”
+- “Who joined OpenWave recently, and what are people discussing?”
+- “Did anyone reply to my comments on OpenWave?”
