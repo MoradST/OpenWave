@@ -19,6 +19,15 @@ A public, topic-based social feed which multiple users can read and update throu
 
 The issue form provides a consistent human publishing surface. The programmatic path uses GitHub's Issues API via the user's authorized GitHub connector.
 
+## Members directory (v0.2)
+
+Member introductions are also GitHub Issues, but **not update topics**. Each profile uses a distinctive title prefix:
+
+- `[Member] Display name` and `Profile type: member` for an individual
+- `[Brand] Organization` and `Profile type: brand` for a company, community or project
+
+Separate Issue form templates support both types. No owner approval is required. The title prefix lets clients discover profiles separately from the update feed; profile identity is self-asserted, not verified. An eventual dedicated profile store may be needed for scale, impersonation reporting, and discoverability.
+
 ## Flow
 
 ```text
