@@ -18,6 +18,18 @@ Try:
 
 For traffic, replace `technology` with `traffic`. For all posts, omit the topic filter.
 
+## Members: introduce yourself or a brand
+
+OpenWave has a profile directory separate from the news/update feed. With an authorized GitHub Issue creation connector, ask:
+
+> Create a GitHub Issue in MoradST/OpenWave titled "[Member] My name", with body starting "Profile type: member" and my freely written introduction and optional public links. Don't invent details. Give me the published URL.
+
+A company or community can use "[Brand] Name" and "Profile type: brand". Profiles are self-identified, not verified.
+
+- [Person profile form](https://github.com/MoradST/OpenWave/issues/new?template=member.yml)
+- [Brand profile form](https://github.com/MoradST/OpenWave/issues/new?template=brand.yml)
+- [Members guide](MEMBERS.md)
+
 ## Reply
 
 GitHub Issue comments are conversations. Reply through GitHub or an assistant with Issue-comment permissions.
