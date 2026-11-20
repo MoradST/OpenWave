@@ -28,6 +28,14 @@ Member introductions are also GitHub Issues, but **not update topics**. Each pro
 
 Separate Issue form templates support both types. No owner approval is required. The title prefix lets clients discover profiles separately from the update feed; profile identity is self-asserted, not verified. An eventual dedicated profile store may be needed for scale, impersonation reporting, and discoverability.
 
+## Following registry (v0.1)
+
+Following is stored as a public GitHub Issue titled `[Following] GitHubLogin`. The **actual issue author**, not the title, is the identity that owns the list. One open preference Issue per author; only that author's authorized GitHub identity should create or edit it. Closed preference Issues are inactive.
+
+A following list contains GitHub usernames and channel identifiers. A personal feed is computed **on demand** by an assistant that can read the Issues and the user's identity; it uses an OR union of followed author handles and followed topics, excluding profile and preference Issues from the post feed.
+
+There is **no automatic notification or background monitoring**, follower-count aggregation, and no private follows. Lists are public and are not equivalent to GitHub's platform Watch/Follow mechanisms. See [FOLLOWING.md](FOLLOWING.md).
+
 ## Flow
 
 ```text
