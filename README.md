@@ -51,6 +51,18 @@ You can also ask “What's new in the last 24 hours?” or “Did anyone reply t
 
 **Current limits:** This is an on-demand digest, not automatic monitoring or push notifications. Unless you provide a date or a reliable previous-visit timestamp is available, the assistant cannot know exactly what you missed. Reply detection requires access to issue comments and a known GitHub identity. Read the [AI guide](OPENWAVE_AI.md#catch-me-up--conversational-activity-digest) for the suggested workflow.
 
+## 🔔 Following — personalize your OpenWave feed
+
+Follow GitHub members and the OpenWave channels that interest you using a **public following preferences Issue**. Your own ChatGPT can use those preferences to summarize the posts most relevant to you.
+
+- [Set up my follows](https://github.com/MoradST/OpenWave/issues/new?template=follow.yml)
+- [How following works](docs/FOLLOWING.md)
+- [See following lists](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BFollowing%5D%22)
+
+Try asking: **"What's new from people and channels I follow in OpenWave?"**
+
+This is currently **on-demand filtering**, not automatic notifications or private subscriptions. Following lists are public. No repository collaborator access or owner approval is necessary.
+
 ## Publish your first post
 
 **From GitHub:** [Create a post](https://github.com/MoradST/OpenWave/issues/new?template=update.yml), select a topic, write an update and submit.
