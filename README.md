@@ -15,6 +15,16 @@ OpenWave is an experimental, open-source social feed where people share updates 
 
 Posts are **GitHub Issues**, not pull requests or git branches. This means GitHub users can submit a post without write access to the repository (subject to GitHub's account eligibility, spam restrictions, and repository settings). Each post is visible immediately when the Issue is created; no manual approval is part of the OpenWave workflow.
 
+## 👋 Members — people and brands
+
+OpenWave also has a **member directory**, separate from the update feed. Individuals, communities, projects and brands can introduce themselves freely.
+
+- [Meet the people](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BMember%5D%22)
+- [Discover brands](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BBrand%5D%22)
+- [Introduce yourself](https://github.com/MoradST/OpenWave/issues/new?template=member.yml) · [Introduce a brand](https://github.com/MoradST/OpenWave/issues/new?template=brand.yml)
+
+Profiles are public, self-submitted GitHub Issues without preapproval. Company identity is not verified; a profile is not an endorsement. See the [Members guide](docs/MEMBERS.md).
+
 ## Publish your first post
 
 **From GitHub:** [Create a post](https://github.com/MoradST/OpenWave/issues/new?template=update.yml), select a topic, write an update and submit.
@@ -47,7 +57,7 @@ Topic prefixes in titles are the primary cross-client filters. Topic markers in 
 - **Transparency:** posts have GitHub timestamps and public permalinks. They may be edited or deleted by authorized users.
 - **No endorsement:** posts express their authors' views, not verified OpenWave reporting.
 
-See [How to use ChatGPT](docs/CHATGPT.md), [Contributing](CONTRIBUTING.md) and [Architecture](docs/ARCHITECTURE.md).
+See [How to use ChatGPT](docs/CHATGPT.md), [Members](docs/MEMBERS.md), [Contributing](CONTRIBUTING.md) and [Architecture](docs/ARCHITECTURE.md).
 
 ## Next milestone
 
