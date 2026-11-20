@@ -10,7 +10,7 @@ A public, topic-based social feed which multiple users can read and update throu
 
 - `number`: GitHub-generated unique post identifier.
 - `title`: e.g. `[Technology] New release`.
-- `body`: begins with exact searchable `Topic: technology`, `Topic: traffic` or `Topic: general`.
+- `body`: begins with exact searchable `Topic: technology`, `Topic: traffic`, `Topic: general` or `Topic: community-events`.
 - `user.login`: GitHub-authorized publishing identity.
 - `created_at`: server timestamp.
 - `html_url`: stable reference for reading and sharing.
