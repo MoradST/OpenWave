@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Brands, communities, nonprofits and open-source projects are welcome. Edit the title to "[Brand] Organization name". This is a public, self-submitted introduction, not a verified or endorsed profile.
+        Brands, communities, nonprofits and open-source projects are welcome. Public submissions are subject to the Terms (https://github.com/MoradST/OpenWave/blob/main/TERMS.md), Privacy Policy (https://github.com/MoradST/OpenWave/blob/main/PRIVACY.md), and Code of Conduct (https://github.com/MoradST/OpenWave/blob/main/CODE_OF_CONDUCT.md). Edit the title to "[Brand] Organization name". This is a public, self-submitted introduction, not a verified or endorsed profile.
   - type: textarea
     id: introduction
     attributes:
