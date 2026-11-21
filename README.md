@@ -95,6 +95,10 @@ Topic prefixes in titles are the primary cross-client filters. Topic markers in 
 
 Before posting, please review our [Terms of Use](TERMS.md) · [Privacy Policy](PRIVACY.md) · [Community Code of Conduct](CODE_OF_CONDUCT.md). Posts, profiles, comments and following lists are **public** and can be indexed or summarized by third-party services. There is no pre-approval queue, but inappropriate content may be removed under the community rules and GitHub policies.
 
+## Contact and removal requests
+
+For removal requests or problematic content, please use any contact information listed on [@MoradST's GitHub profile](https://github.com/MoradST). For non-sensitive reports, you can also [open a public Issue](https://github.com/MoradST/OpenWave/issues/new) with a link to the relevant content. GitHub has no regular private DMs. **Do not share sensitive information in public Issues.** For abuse or privacy-sensitive complaints, use [GitHub's reporting tools](https://docs.github.com/en/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam) when appropriate. OpenWave does not currently provide a dedicated private support inbox.
+
 ## Posting principles
 
 - **Open publishing:** no approval queue and no requirement for the owner to merge posts.
