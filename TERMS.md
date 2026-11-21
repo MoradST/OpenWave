@@ -32,7 +32,7 @@ Follow the [Code of Conduct](CODE_OF_CONDUCT.md). In particular: no spam, harass
 
 OpenWave has no manual pre-approval queue for ordinary Issues. This does **not** mean posts are guaranteed to remain online. Repository maintainers and GitHub may limit, close, hide, edit where platform permissions permit, or remove material/accounts in accordance with their policies and applicable law. OpenWave does not promise continuous or real-time moderation, and there is currently no comprehensive automated review system.
 
-For non-sensitive reports, you may flag a public Issue to the repository maintainers. For sensitive abuse or privacy concerns, use GitHub's reporting mechanisms and avoid publishing personal details in a public report.
+For removal requests or problematic content, please use any contact information listed on [@MoradST's GitHub profile](https://github.com/MoradST). For non-sensitive reports, you can also [open a public Issue](https://github.com/MoradST/OpenWave/issues/new) with a link to the relevant content. GitHub has no regular private DMs. **Do not share sensitive information in public Issues.** For abuse or privacy-sensitive complaints, use [GitHub's reporting tools](https://docs.github.com/en/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam) when appropriate. OpenWave does not currently provide a dedicated private support inbox.
 
 ## 6. AI assistants and third-party services
 
@@ -46,6 +46,6 @@ These terms may be updated in the repository with a revised effective date. Mate
 
 ## 8. Privacy and contact
 
-Read the [Privacy Policy](PRIVACY.md). OpenWave currently has no separate private support inbox. To contact the project owner, use the contact options published on the [MoradST GitHub profile](https://github.com/MoradST), if available. **Do not include private or sensitive details in a public Issue.**
+Read the [Privacy Policy](PRIVACY.md). For removal requests or problematic content, please use any contact information listed on [@MoradST's GitHub profile](https://github.com/MoradST). For non-sensitive reports, you can also [open a public Issue](https://github.com/MoradST/OpenWave/issues/new) with a link to the relevant content. GitHub has no regular private DMs. **Do not share sensitive information in public Issues.** For abuse or privacy-sensitive complaints, use [GitHub's reporting tools](https://docs.github.com/en/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam) when appropriate. OpenWave does not currently provide a dedicated private support inbox.
 
 Additional platform rules: [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service), [GitHub Acceptable Use Policies](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies).
