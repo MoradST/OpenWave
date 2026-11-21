@@ -45,7 +45,7 @@ No separate OpenWave retention period is currently implemented for an independen
 - Revoke any GitHub authorization granted to a third-party AI service in the relevant account settings.
 - Avoid opting into optional public-profile discoveries if you don't want future public summaries.
 
-**Sensitive privacy request?** Do not open a public Issue containing sensitive details. Use a private contact option on the [project owner's GitHub profile](https://github.com/MoradST), if one is available, or use GitHub's privacy/reporting channels for matters within GitHub's control. Availability of a private project contact channel has not yet been confirmed.
+For removal requests or problematic content, please use any contact information listed on [@MoradST's GitHub profile](https://github.com/MoradST). For non-sensitive reports, you can also [open a public Issue](https://github.com/MoradST/OpenWave/issues/new) with a link to the relevant content. GitHub has no regular private DMs. **Do not share sensitive information in public Issues.** For abuse or privacy-sensitive complaints, use [GitHub's reporting tools](https://docs.github.com/en/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam) when appropriate. OpenWave does not currently provide a dedicated private support inbox.
 
 ## Third parties and geographic reach
 
