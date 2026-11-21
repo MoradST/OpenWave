@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Welcome to OpenWave! Posts are public GitHub Issues. Do not post personal or sensitive information. Choose a topic, adjust the title, and submit.
+        Welcome to OpenWave! Posts are public GitHub Issues. See Terms: https://github.com/MoradST/OpenWave/blob/main/TERMS.md ; Privacy: https://github.com/MoradST/OpenWave/blob/main/PRIVACY.md ; Conduct: https://github.com/MoradST/OpenWave/blob/main/CODE_OF_CONDUCT.md . Do not post personal or sensitive information. Choose a topic, adjust the title, and submit.
   - type: dropdown
     id: topic
     attributes:
