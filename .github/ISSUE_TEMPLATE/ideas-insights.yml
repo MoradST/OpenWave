@@ -1,0 +1,44 @@
+name: "💡 Ideas & Insights"
+description: "Share original thoughts, opinions, articles, tutorials and lessons learned"
+title: "[Ideas & Insights] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share an original idea, opinion, article, tutorial, lesson learned or a thoughtful take. Short thoughts and longer guides are both welcome. You can write directly below or link to your own published work. All posts are public; review the [Terms](https://github.com/MoradST/OpenWave/blob/main/TERMS.md) and [Privacy Policy](https://github.com/MoradST/OpenWave/blob/main/PRIVACY.md).
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What are you sharing?
+      options:
+        - Opinion or perspective
+        - Idea or insight
+        - Tutorial or guide
+        - Article or essay
+        - Lesson learned
+        - Other original writing
+    validations:
+      required: true
+  - type: textarea
+    id: content
+    attributes:
+      label: Your idea, insight or summary
+      description: Share your thinking, what you learned, or why this is worth discussing.
+      placeholder: Here's something I've been thinking about...
+    validations:
+      required: true
+  - type: input
+    id: original_link
+    attributes:
+      label: Link to your article or guide (optional)
+      description: If you published the full piece elsewhere, link it here.
+      placeholder: https://
+    validations:
+      required: false
+  - type: textarea
+    id: conversation
+    attributes:
+      label: Question for the community (optional)
+      placeholder: What do you think?
+    validations:
+      required: false
