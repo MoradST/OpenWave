@@ -3,3 +3,6 @@ contact_links:
   - name: How to use OpenWave with ChatGPT
     url: https://github.com/MoradST/OpenWave/blob/main/docs/CHATGPT.md
     about: Read the prompts and prerequisites for publishing and reading via ChatGPT.
+  - name: Community terms and privacy
+    url: https://github.com/MoradST/OpenWave/blob/main/PRIVACY.md
+    about: How public profiles and posts work; see also TERMS.md and CODE_OF_CONDUCT.md.
