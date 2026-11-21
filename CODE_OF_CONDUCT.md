@@ -25,7 +25,7 @@ Member and Brand profiles are self-declared, not identity-verified. Using an AI 
 
 Posts do not require pre-approval. Repository maintainers may remove or restrict abusive material when they become aware of it; GitHub may also enforce platform policies. There is no promise of active 24/7 or comprehensive automated moderation.
 
-For an ordinary non-sensitive problem, link to the relevant Issue when contacting maintainers. For harassment or privacy-sensitive cases, use GitHub's built-in reporting options or the private contact channels described in the [Privacy Policy](PRIVACY.md), where available. Do not share private details in a public Issue.
+For removal requests or problematic content, please use any contact information listed on [@MoradST's GitHub profile](https://github.com/MoradST). For non-sensitive reports, you can also [open a public Issue](https://github.com/MoradST/OpenWave/issues/new) with a link to the relevant content. GitHub has no regular private DMs. **Do not share sensitive information in public Issues.** For abuse or privacy-sensitive complaints, use [GitHub's reporting tools](https://docs.github.com/en/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam) when appropriate. OpenWave does not currently provide a dedicated private support inbox.
 
 ## Other policies
 
