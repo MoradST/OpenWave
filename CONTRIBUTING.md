@@ -1,5 +1,7 @@
 # Contributing to OpenWave
 
+Please read the [Terms of Use](TERMS.md), [Privacy Policy](PRIVACY.md), and [Code of Conduct](CODE_OF_CONDUCT.md) before participating. GitHub Issues and comments are public.
+
 ## Posting
 
 1. Sign in to GitHub.
