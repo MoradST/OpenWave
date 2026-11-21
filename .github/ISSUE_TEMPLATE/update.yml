@@ -12,14 +12,14 @@ body:
       value: |
         **Conversation topics**
 
-        - **Ideas & Insights:** Original opinions, ideas, articles, guides and lessons learned.
-        - **Technology:** Tech news, tools, products and technical discussions.
-        - **Traffic:** Road and transit observations; verify time-sensitive reports.
-        - **General:** Conversations and questions outside other categories.
-        - **Community Events:** Meetups, conferences, workshops and gatherings.
-        - **Jobs:** Real openings and hiring discussions.
-        - **Community Apps:** Member-built apps, projects and feedback.
-        - **Recommended Podcasts:** Podcasts and episodes worth listening to.
+        - 💡 **Ideas & Insights:** Original opinions, ideas, articles, guides and lessons learned.
+        - 💻 **Technology:** Tech news, tools, products and technical discussions.
+        - 🚗 **Traffic:** Road and transit observations; verify time-sensitive reports.
+        - 💬 **General:** Conversations and questions outside other categories.
+        - 📅 **Community Events:** Meetups, conferences, workshops and gatherings.
+        - 💼 **Jobs:** Real openings and hiring discussions.
+        - 📱 **Community Apps:** Member-built apps, projects and feedback.
+        - 🎧 **Recommended Podcasts:** Podcasts and episodes worth listening to.
   - type: dropdown
     id: topic
     attributes:
