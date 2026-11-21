@@ -99,11 +99,11 @@ Ideas & Insights is the first listed topic. Members can share **original** thoug
 
 ## Conversation topics at a glance
 
-- **Ideas & Insights:** Original thoughts, opinions, articles, guides and lessons learned.
-- **Technology:** Tech news, products, tools and technical discussions.
-- **Traffic:** Road and transit observations; verify time-sensitive information.
-- **General:** Everyday questions and conversations outside other categories.
-- **Community Events:** Meetups, conferences, workshops and gatherings.
-- **Jobs:** Genuine openings and hiring conversations.
-- **Community Apps:** Member-built apps, projects and feedback.
-- **Recommended Podcasts:** Podcast and episode recommendations with reasons to listen.
+- 💡 **Ideas & Insights:** Original thoughts, opinions, articles, guides and lessons learned.
+- 💻 **Technology:** Tech news, products, tools and technical discussions.
+- 🚗 **Traffic:** Road and transit observations; verify time-sensitive information.
+- 💬 **General:** Everyday questions and conversations outside other categories.
+- 📅 **Community Events:** Meetups, conferences, workshops and gatherings.
+- 💼 **Jobs:** Genuine openings and hiring conversations.
+- 📱 **Community Apps:** Member-built apps, projects and feedback.
+- 🎧 **Recommended Podcasts:** Podcast and episode recommendations with reasons to listen.
