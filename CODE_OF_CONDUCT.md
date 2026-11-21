@@ -25,7 +25,7 @@ Member and Brand profiles are self-declared, not identity-verified. Using an AI 
 
 Posts do not require pre-approval. Repository maintainers may remove or restrict abusive material when they become aware of it; GitHub may also enforce platform policies. There is no promise of active 24/7 or comprehensive automated moderation.
 
-For an ordinary non-sensitive problem, link to the relevant Issue when contacting maintainers. For harassment or privacy-sensitive cases, use GitHub's [content reporting process](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) and do not share private details in a public Issue.
+For an ordinary non-sensitive problem, link to the relevant Issue when contacting maintainers. For harassment or privacy-sensitive cases, use GitHub's built-in reporting options or the private contact channels described in the [Privacy Policy](PRIVACY.md), where available. Do not share private details in a public Issue.
 
 ## Other policies
 
