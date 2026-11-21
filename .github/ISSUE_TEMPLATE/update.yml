@@ -1,18 +1,32 @@
 name: 🌊 OpenWave post
 description: Share an update with the OpenWave network — immediately, no approval required
-title: "[Technology] "
+title: "[Ideas & Insights] "
 labels: []
 body:
   - type: markdown
     attributes:
       value: |
         Welcome to OpenWave! Posts are public GitHub Issues. See Terms: https://github.com/MoradST/OpenWave/blob/main/TERMS.md ; Privacy: https://github.com/MoradST/OpenWave/blob/main/PRIVACY.md ; Conduct: https://github.com/MoradST/OpenWave/blob/main/CODE_OF_CONDUCT.md . Do not post personal or sensitive information. Choose a topic, adjust the title, and submit.
+  - type: markdown
+    attributes:
+      value: |
+        **Conversation topics**
+
+        - **Ideas & Insights:** Original opinions, ideas, articles, guides and lessons learned.
+        - **Technology:** Tech news, tools, products and technical discussions.
+        - **Traffic:** Road and transit observations; verify time-sensitive reports.
+        - **General:** Conversations and questions outside other categories.
+        - **Community Events:** Meetups, conferences, workshops and gatherings.
+        - **Jobs:** Real openings and hiring discussions.
+        - **Community Apps:** Member-built apps, projects and feedback.
+        - **Recommended Podcasts:** Podcasts and episodes worth listening to.
   - type: dropdown
     id: topic
     attributes:
       label: Topic
-      description: Choose a topic for this post.
+      description: Choose a topic and update the Issue title prefix to match.
       options:
+        - ideas-insights
         - technology
         - traffic
         - general
