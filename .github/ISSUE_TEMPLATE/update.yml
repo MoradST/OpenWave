@@ -18,6 +18,8 @@ body:
         - general
         - community-events
         - jobs
+        - community-apps
+        - podcasts
     validations:
       required: true
   - type: textarea
