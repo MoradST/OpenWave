@@ -1,0 +1,45 @@
+name: "🎧 Recommended Podcast"
+description: "Recommend a podcast or episode to the OpenWave community"
+title: "[Podcasts] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share a podcast worth listening to! Edit the title to "[Podcasts] Podcast name — episode (optional)". The post is public and visible as soon as you submit it. Review the community terms: https://github.com/MoradST/OpenWave/blob/main/TERMS.md and privacy policy: https://github.com/MoradST/OpenWave/blob/main/PRIVACY.md.
+  - type: input
+    id: podcast
+    attributes:
+      label: Podcast name
+      placeholder: Name of the podcast
+    validations:
+      required: true
+  - type: input
+    id: episode
+    attributes:
+      label: Episode or guest (optional)
+      placeholder: Episode title or guest
+    validations:
+      required: false
+  - type: textarea
+    id: recommendation
+    attributes:
+      label: Why do you recommend it?
+      description: Tell us what makes this worth listening to, in your own words.
+      placeholder: What will listeners enjoy or learn?
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Listening link
+      description: Link to the podcast or specific episode (Spotify, Apple Podcasts, YouTube, RSS, etc.)
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language (optional)
+      placeholder: English, Hebrew, etc.
+    validations:
+      required: false
