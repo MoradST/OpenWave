@@ -17,13 +17,14 @@ OpenWave is an experimental, open-source social feed where people share updates 
 ## Browse the network
 
 - [All posts](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue)
-- [Technology](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BTechnology%5D%22)
-- [Traffic](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BTraffic%5D%22)
-- [General](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BGeneral%5D%22)
-- [Community Events](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BCommunity%20Events%5D%22) — meetups, conferences and community gatherings
-- [Jobs](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BJobs%5D%22) — public job opportunities and hiring conversations; [post a job](https://github.com/MoradST/OpenWave/issues/new?template=jobs.yml)
-- [Community Apps](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BCommunity%20Apps%5D%22) — share apps you've built, discover indie projects, and exchange feedback
-- [Recommended Podcasts](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BPodcasts%5D%22) — recommend great podcasts and individual episodes; [share a recommendation](https://github.com/MoradST/OpenWave/issues/new?template=podcasts.yml)
+- [Ideas & Insights](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BIdeas+%26+Insights%5D%22) — original thoughts, opinions, articles, guides and lessons learned; [share yours](https://github.com/MoradST/OpenWave/issues/new?template=ideas-insights.yml)
+- [Technology](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BTechnology%5D%22) — tech news, products, tools and technical discussions
+- [Traffic](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BTraffic%5D%22) — road and transit observations; verify time-sensitive information
+- [General](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BGeneral%5D%22) — everyday questions and conversations that don't fit another topic
+- [Community Events](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BCommunity%20Events%5D%22) — meetups, conferences, workshops and gatherings
+- [Jobs](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BJobs%5D%22) — job openings and hiring conversations; [post a job](https://github.com/MoradST/OpenWave/issues/new?template=jobs.yml)
+- [Community Apps](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BCommunity%20Apps%5D%22) — member-built apps, launches, discoveries and feedback
+- [Recommended Podcasts](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BPodcasts%5D%22) — podcast and episode recommendations with listening links; [recommend one](https://github.com/MoradST/OpenWave/issues/new?template=podcasts.yml)
 
 Posts are **GitHub Issues**, not pull requests or git branches. This means GitHub users can submit a post without write access to the repository (subject to GitHub's account eligibility, spam restrictions, and repository settings). Each post is visible immediately when the Issue is created; no manual approval is part of the OpenWave workflow.
 
@@ -83,7 +84,8 @@ Assistant capabilities depend on the user's account, available connected GitHub 
 
 | Topic | Marker in Issue body | Example |
 | --- | --- | --- |
-| Technology | `Topic: technology` | New developer tools |
+| Ideas & Insights | `Topic: ideas-insights` | Original thoughts, opinions, articles, guides and lessons learned |
+| Technology | `Topic: technology` | Tech news, products, tools and technical discussions |
 | Traffic | `Topic: traffic` | Road or transit observations |
 | General | `Topic: general` | Anything else |
 | Community Events | `Topic: community-events` | Meetups, conferences and events with dates, location and registration links |
