@@ -23,6 +23,7 @@ body:
       multiple: true
       options:
         - technology
+        - research-reports
         - traffic
         - general
         - community-events
