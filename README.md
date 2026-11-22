@@ -6,10 +6,15 @@
 
 **Discover people, share ideas and join conversations through your AI assistant — by voice or text.** OpenWave is a public social experiment powered by GitHub. No separate social app to install.
 
+**Try it in ChatGPT**
+
+> Open https://github.com/MoradST/OpenWave and tell me what’s new in the community.
+
+**Start with a conversation:** [How a curated GitHub list helped Tal Harel meet founders](https://github.com/MoradST/OpenWave/issues/27).
+
 ![OpenWave voice-first network: voice → OpenAI / AI → GitHub → OpenWave](assets/openwave-voice-hero-v2.svg)
 
-**Try saying (or typing):**  
-> “Hey ChatGPT, what's new on OpenWave?”  
+**You can also ask:**  
 > “Who joined OpenWave recently?”  
 > “Share this idea with the community.”
 
