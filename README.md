@@ -1,20 +1,43 @@
-<p align="center">
-  <img src="assets/openwave-icon.webp" alt="OpenWave icon" width="220" />
-</p>
+<p align="center"><img src="assets/openwave-icon.webp" alt="OpenWave" width="112" /></p>
 
 # 🌊 OpenWave
 
-**An open social network you can talk to.**
+<p align="center"><strong>A Social Network You Can Talk To.</strong></p>
 
-OpenWave is an experimental, open-source social feed where people share updates and discover conversations through natural language. GitHub hosts the public posts; AI assistants such as ChatGPT can help people read and publish them.
+**Discover people, share ideas and join conversations through your AI assistant — by voice or text.** OpenWave is a public social experiment powered by GitHub. No separate social app to install.
 
-**New here? Ask your ChatGPT:** "Open https://github.com/MoradST/OpenWave and read OPENWAVE_AI.md. Tell me what I can do here, including how to introduce myself as a Member."
+![OpenWave voice-first network: voice → OpenAI / AI → GitHub → OpenWave](assets/openwave-voice-hero.svg)
 
-**For AI assistants:** [Start with the OpenWave onboarding guide](OPENWAVE_AI.md). In your first introduction to a new user, mention that they can create a free-form Member profile or a Brand profile, as well as read and publish updates. Only do this after the user asks about OpenWave; never publish without authorization.
+**Try saying (or typing):**  
+> “Hey ChatGPT, what's new on OpenWave?”  
+> “Who joined OpenWave recently?”  
+> “Share this idea with the community.”
 
-**Status: v0.1 experiment — GitHub Issues backend.** No app to install. Voice is optional, not required.
+**[👋 Meet the members](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BMember%5D%22)** · **[🌊 Join OpenWave](https://github.com/MoradST/OpenWave/issues/new?template=member.yml)** · **[💬 Explore conversations](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue)**
 
-## Browse the network
+<sub>Voice-first, not voice-only. Using ChatGPT to browse or post depends on the GitHub tools and permissions available in your ChatGPT session; voice-mode actions and interoperability across different accounts are not yet fully verified. You can always browse and post directly on GitHub.</sub>
+
+---
+
+## 👋 Meet the community
+
+**People make the network.** See who's here, discover what they're building, and introduce yourself.
+
+- **[Meet the people](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BMember%5D%22)** — explore public member introductions.
+- **[Join as a member](https://github.com/MoradST/OpenWave/issues/new?template=member.yml)** — tell the community about yourself and your interests.
+- **[Discover brands and organizations](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BBrand%5D%22)** · **[Introduce a brand](https://github.com/MoradST/OpenWave/issues/new?template=brand.yml)** — find and share community projects and organizations.
+
+Profiles are public, self-submitted GitHub Issues without preapproval. Brand identities are not verified or endorsed. Read the [Members guide](docs/MEMBERS.md).
+
+## 🎙️ Explore OpenWave with ChatGPT
+
+To introduce OpenWave to your assistant, say or paste:
+
+> Open https://github.com/MoradST/OpenWave and read OPENWAVE_AI.md. Help me explore the community, discover members and conversations, and explain how to participate.
+
+If your ChatGPT has an authorized GitHub connection, it may be able to search Issues, read comments, or publish a post at your request. **Never share passwords or GitHub access tokens in public Issues.** See the [AI onboarding guide](OPENWAVE_AI.md) and [ChatGPT how-to](docs/CHATGPT.md).
+
+## 💬 Explore conversations
 
 - 🌐 [All posts](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue)
 - 💡 [Ideas & Insights](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BIdeas+%26+Insights%5D%22) — original thoughts, opinions, articles, guides and lessons learned; [share yours](https://github.com/MoradST/OpenWave/issues/new?template=ideas-insights.yml)
@@ -26,23 +49,26 @@ OpenWave is an experimental, open-source social feed where people share updates 
 - 📱 [Community Apps](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BCommunity%20Apps%5D%22) — member-built apps, launches, discoveries and feedback
 - 🎧 [Recommended Podcasts](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BPodcasts%5D%22) — podcast and episode recommendations with listening links; [recommend one](https://github.com/MoradST/OpenWave/issues/new?template=podcasts.yml)
 
-Posts are **GitHub Issues**, not pull requests or git branches. This means GitHub users can submit a post without write access to the repository (subject to GitHub's account eligibility, spam restrictions, and repository settings). Each post is visible immediately when the Issue is created; no manual approval is part of the OpenWave workflow.
-
-## 👋 Members — people and brands
-
-OpenWave also has a **member directory**, separate from the update feed. Individuals, communities, projects and brands can introduce themselves freely.
-
-- [Meet the people](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BMember%5D%22)
-- [Discover brands](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BBrand%5D%22)
-- [Introduce yourself](https://github.com/MoradST/OpenWave/issues/new?template=member.yml) · [Introduce a brand](https://github.com/MoradST/OpenWave/issues/new?template=brand.yml)
-
-Profiles are public, self-submitted GitHub Issues without preapproval. Company identity is not verified; a profile is not an endorsement. See the [Members guide](docs/MEMBERS.md).
+Each post is a public GitHub Issue, and replies are GitHub comments. Anyone eligible to create Issues can post without repository write access, subject to GitHub account and anti-abuse controls. There is no OpenWave pre-publication approval queue.
 
 
-## 🔗 Follow the People — X conversations (opt-in)
+## ⚙️ How OpenWave works
 
-Members and brands can now add their public X profile and opt in to **future** discovery of their public conversations. This is not a generic X news scraper: people choose whether to participate. **Automatic monitoring is not active yet**; integration will require approved X API access and additional development. [How it works](docs/FOLLOW_THE_PEOPLE.md).
+**Your AI assistant is the interface. GitHub is the shared, public infrastructure.**
 
+- **Posts and profiles:** GitHub Issues.
+- **Conversations:** GitHub Issue comments.
+- **Discovery:** Issue titles, categories, public member profiles and optional public Following preferences.
+- **AI-assisted interaction:** Each participant uses their own authorized AI/GitHub connection where supported.
+
+This is a community experiment, not an official GitHub or OpenAI service. No custom OpenWave server or separate user database is required for this version. To participate directly: [create a post](https://github.com/MoradST/OpenWave/issues/new?template=update.yml).
+
+<details>
+<summary><strong>Technical status and current limitations</strong></summary>
+
+**Status: v0.1 experiment — GitHub Issues backend.** Voice is optional, not required. GitHub-connected tools depend on the participant's account and environment; cross-user and voice-mode interoperability are not yet fully verified. Posts are visible immediately, with moderation handled after publication where necessary.
+
+</details>
 
 ## 🌊 Catch Me Up — what's new on OpenWave?
 
@@ -65,6 +91,11 @@ Follow GitHub members and the OpenWave channels that interest you using a **publ
 Try asking: **"What's new from people and channels I follow in OpenWave?"**
 
 This is currently **on-demand filtering**, not automatic notifications or private subscriptions. Following lists are public. No repository collaborator access or owner approval is necessary.
+
+## 🔗 Follow the People — X conversations (opt-in)
+
+Members and brands can now add their public X profile and opt in to **future** discovery of their public conversations. This is not a generic X news scraper: people choose whether to participate. **Automatic monitoring is not active yet**; integration will require approved X API access and additional development. [How it works](docs/FOLLOW_THE_PEOPLE.md).
+
 
 ## Publish your first post
 
