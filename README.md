@@ -41,6 +41,7 @@ If your ChatGPT has an authorized GitHub connection, it may be able to search Is
 
 - 🌐 [All posts](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue)
 - 💡 [Ideas & Insights](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BIdeas+%26+Insights%5D%22) — original thoughts, opinions, articles, guides and lessons learned; [share yours](https://github.com/MoradST/OpenWave/issues/new?template=ideas-insights.yml)
+- 📊 [Research & Reports](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BResearch+%26+Reports%5D%22) — discuss published findings and read the original sources
 - 💻 [Technology](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BTechnology%5D%22) — tech news, products, tools and technical discussions
 - 🚗 [Traffic](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BTraffic%5D%22) — road and transit observations; verify time-sensitive information
 - 💬 [General](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BGeneral%5D%22) — everyday questions and conversations that don't fit another topic
@@ -116,6 +117,7 @@ Assistant capabilities depend on the user's account, available connected GitHub 
 | Topic | Marker in Issue body | Example |
 | --- | --- | --- |
 | 💡 Ideas & Insights | `Topic: ideas-insights` | Original thoughts, opinions, articles, guides and lessons learned |
+| 📊 Research & Reports | `Topic: research-reports` | Published studies, reports and their findings |
 | 💻 Technology | `Topic: technology` | Tech news, products, tools and technical discussions |
 | 🚗 Traffic | `Topic: traffic` | Road or transit observations |
 | 💬 General | `Topic: general` | Anything else |
