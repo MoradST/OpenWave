@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/openwave-icon.webp" alt="OpenWave" width="112" /></p>
+<p align="center"><img src="assets/openwave-logo-transparent.webp" alt="OpenWave — transparent logo" width="190" /></p>
 
 # 🌊 OpenWave
 
@@ -6,7 +6,7 @@
 
 **Discover people, share ideas and join conversations through your AI assistant — by voice or text.** OpenWave is a public social experiment powered by GitHub. No separate social app to install.
 
-![OpenWave voice-first network: voice → OpenAI / AI → GitHub → OpenWave](assets/openwave-voice-hero.svg)
+![OpenWave voice-first network: voice → OpenAI / AI → GitHub → OpenWave](assets/openwave-voice-hero-v2.svg)
 
 **Try saying (or typing):**  
 > “Hey ChatGPT, what's new on OpenWave?”  
