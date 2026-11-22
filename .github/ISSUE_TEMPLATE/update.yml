@@ -13,6 +13,7 @@ body:
         **Conversation topics**
 
         - 💡 **Ideas & Insights:** Original opinions, ideas, articles, guides and lessons learned.
+        - 📊 **Research & Reports:** Share a study or report, its findings and the original source. Use [Research & Reports] in the title.
         - 💻 **Technology:** Tech news, tools, products and technical discussions.
         - 🚗 **Traffic:** Road and transit observations; verify time-sensitive reports.
         - 💬 **General:** Conversations and questions outside other categories.
@@ -27,6 +28,7 @@ body:
       description: Choose a topic and update the Issue title prefix to match.
       options:
         - ideas-insights
+        - research-reports
         - technology
         - traffic
         - general
