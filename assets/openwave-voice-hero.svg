@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+<title id="title">OpenWave voice-first network</title><desc id="desc">An engineering-style visualization of voice input connecting an AI assistant through GitHub to the OpenWave community.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1325"/><stop offset="1" stop-color="#07101b"/></linearGradient><linearGradient id="signal" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fb8a37"/><stop offset=".45" stop-color="#e46d30"/><stop offset="1" stop-color="#33c5f6"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#1b3447" stroke-width="1" fill="none"/></pattern></defs>
+<rect width="1200" height="480" rx="20" fill="url(#bg)"/><rect width="1200" height="480" rx="20" fill="url(#grid)" opacity=".48"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="44" y="45" fill="#6f94ad" font-size="14" letter-spacing="4">OPENWAVE // LIVE NETWORK INTERFACE</text><text x="1152" y="45" fill="#32c5ef" font-size="14" text-anchor="end">VOICE FIRST · GITHUB POWERED</text></g>
+<path d="M48 85H1152M48 389H1152" stroke="#234157" stroke-width="1"/>
+<g fill="#0d2032" stroke="#335b74" stroke-width="2">
+<rect x="48" y="126" width="248" height="222" rx="16"/>
+<rect x="324" y="126" width="248" height="222" rx="16"/>
+<rect x="600" y="126" width="248" height="222" rx="16"/>
+<rect x="876" y="126" width="276" height="222" rx="16"/>
+</g>
+<g stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M94 224l15-30 15 63 15-100 15 130 15-97 15 52 15-30 15 14" stroke="url(#signal)" stroke-width="5"/>
+<path d="M362 226h50m-25-25v50" stroke="#2cbbec" stroke-width="8"/>
+<circle cx="447" cy="227" r="46" stroke="#2cbbec" stroke-width="5"/><path d="M416 199l58 55m-59 1 59-56m-63 27h72" stroke="#2cbbec" stroke-width="3"/>
+<path d="M651 258v-27q0-35 35-35t35 35v27M662 198l-12-17 3-12 24 17m32 0 24-17 3 12-12 17" stroke="#edf5fb" stroke-width="6"/>
+<path d="M671 240v16m30-16v16" stroke="#edf5fb" stroke-width="5"/>
+<circle cx="1009" cy="210" r="31" stroke="#f58f3e" stroke-width="4"/><path d="M959 255q50-54 100 0M961 267q48-35 96 0M985 186l23 24 23-24" stroke="#f58f3e" stroke-width="4"/>
+<path d="M296 237h28M572 237h28M848 237h28" stroke="#f58f3e" stroke-dasharray="5 8" stroke-width="4"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle"><text x="172" y="319" font-size="22" font-weight="bold" fill="#e8f2f9">YOUR VOICE</text><text x="448" y="319" font-size="22" font-weight="bold" fill="#e8f2f9">OPENAI / AI</text><text x="724" y="319" font-size="22" font-weight="bold" fill="#e8f2f9">GITHUB</text><text x="1014" y="319" font-size="22" font-weight="bold" fill="#e8f2f9">OPENWAVE</text><text x="600" y="425" font-size="22" font-weight="bold" fill="#edf8ff">A SOCIAL NETWORK YOU CAN TALK TO.</text><text x="600" y="454" font-size="13" fill="#789bb0" letter-spacing="2">DISCOVER PEOPLE  •  SHARE IDEAS  •  JOIN CONVERSATIONS</text></g>
+</svg>
