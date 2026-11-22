@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/openwave-logo-crisp.svg" alt="OpenWave — transparent logo" width="190" /></p>
+<p align="center"><img src="assets/openwave-original-transparent.webp" alt="OpenWave — transparent logo" width="190" /></p>
 
 # 🌊 OpenWave
 
