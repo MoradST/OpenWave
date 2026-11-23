@@ -1,0 +1,35 @@
+name: "📖 Guides & Resources"
+description: "Share practical guides, tutorials, learning resources and useful collections"
+title: "[Guides & Resources] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share a genuinely useful guide or resource. Explain what readers can learn or do with it, link to the original, and credit its creators. Mention people only when relevant.
+  - type: input
+    id: resource
+    attributes:
+      label: Link to the original resource
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why is it useful?
+      description: Who is it for, and what practical value does it offer?
+    validations:
+      required: true
+  - type: textarea
+    id: credits
+    attributes:
+      label: Creator or maintainer credit (optional)
+      description: Include a relevant GitHub profile or organization, if verified.
+    validations:
+      required: false
+  - type: textarea
+    id: question
+    attributes:
+      label: Question for the community (optional)
+    validations:
+      required: false
