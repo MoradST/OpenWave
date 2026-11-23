@@ -53,6 +53,7 @@ If your ChatGPT has an authorized GitHub connection, it may be able to search Is
 - 📅 [Community Events](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BCommunity%20Events%5D%22) — meetups, conferences, workshops and gatherings
 - 💼 [Jobs](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BJobs%5D%22) — job openings and hiring conversations; [post a job](https://github.com/MoradST/OpenWave/issues/new?template=jobs.yml)
 - 📱 [Community Apps](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BCommunity%20Apps%5D%22) — member-built apps, launches, discoveries and feedback
+- 📚 [Books](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BBooks%5D%22) — book recommendations, takeaways and discussions; [share a book](https://github.com/MoradST/OpenWave/issues/new?template=update.yml)
 - 🎧 [Recommended Podcasts](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BPodcasts%5D%22) — podcast and episode recommendations with listening links; [recommend one](https://github.com/MoradST/OpenWave/issues/new?template=podcasts.yml)
 
 Each post is a public GitHub Issue, and replies are GitHub comments. Anyone eligible to create Issues can post without repository write access, subject to GitHub account and anti-abuse controls. There is no OpenWave pre-publication approval queue.
@@ -129,6 +130,7 @@ Assistant capabilities depend on the user's account, available connected GitHub 
 | 📅 Community Events | `Topic: community-events` | Meetups, conferences and events with dates, location and registration links |
 | 💼 Jobs | `Topic: jobs` | Open roles with company, location, work model and application link |
 | 📱 Community Apps | `Topic: community-apps` | Apps built by community members, with links and feedback requests |
+| 📚 Books | `Topic: books` | Book recommendations, reviews, insights and discussions |
 | 🎧 Recommended Podcasts | `Topic: podcasts` | Recommended podcasts or episodes, links and reasons to listen |
 
 Topic prefixes in titles are the primary cross-client filters. Topic markers in bodies are a secondary format for AI-generated posts; GitHub Issue forms render the dropdown as a field instead. More topics can be added over time.
