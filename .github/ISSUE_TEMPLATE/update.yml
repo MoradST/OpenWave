@@ -20,6 +20,7 @@ body:
         - 📅 **Community Events:** Meetups, conferences, workshops and gatherings.
         - 💼 **Jobs:** Real openings and hiring discussions.
         - 📱 **Community Apps:** Member-built apps, projects and feedback.
+        - 📚 **Books:** Book recommendations, reviews and ideas worth discussing. Use [Books] in the title.
         - 🎧 **Recommended Podcasts:** Podcasts and episodes worth listening to.
   - type: dropdown
     id: topic
@@ -36,6 +37,7 @@ body:
         - jobs
         - community-apps
         - podcasts
+        - books
     validations:
       required: true
   - type: textarea
