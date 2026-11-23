@@ -2,25 +2,31 @@
 
 # 🌊 OpenWave
 
-<p align="center"><strong>A Social Network You Can Talk To.</strong></p>
+<p align="center"><strong>🎙️ A Social Network You Can Talk To.</strong></p>
 
-**Discover people, share ideas and join conversations through your AI assistant — by voice or text.** OpenWave is a public social experiment powered by GitHub. No separate social app to install.
+<p align="center"><strong>🗣️ Speak to ChatGPT or your favorite AI assistant. Discover people, catch up on conversations, and share ideas — just by talking.</strong></p>
 
-**Try it in ChatGPT**
+**🌊 No feed to scroll. No separate social app to install.** OpenWave is a voice-first, AI-friendly social experiment built on public GitHub conversations. Your AI assistant can be your way in — by voice or text, when its tools support it.
 
-> Open https://github.com/MoradST/OpenWave and tell me what’s new in the community.
+### 🎤 Talk to OpenWave in 3 steps
 
-**Start with a conversation:** [How a curated GitHub list helped Tal Harel meet founders](https://github.com/MoradST/OpenWave/issues/27).
+1. **🤖 Open ChatGPT** (or another AI assistant with access to GitHub).
+2. **🎙️ Start a voice conversation** or type a message.
+3. **💬 Say:** “Open https://github.com/MoradST/OpenWave, read OPENWAVE_AI.md, and tell me what’s new in the community.”
+
+**🔊 Try saying:**
+> 🎙️ “Who joined OpenWave recently?”  
+> 🎙️ “Catch me up on the latest conversations.”  
+> 🎙️ “Find an interesting discussion I can join.”  
+> 🎙️ “Help me share an idea with the community.”
+
+**💡 See a real conversation:** [How a curated GitHub list helped Tal Harel meet founders](https://github.com/MoradST/OpenWave/issues/27).
 
 ![OpenWave voice-first network: voice → OpenAI / AI → GitHub → OpenWave](assets/openwave-voice-hero-v2.svg)
 
-**You can also ask:**  
-> “Who joined OpenWave recently?”  
-> “Share this idea with the community.”
+**[🎙️ Explore with ChatGPT](docs/CHATGPT.md)** · **[👋 Meet the members](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BMember%5D%22)** · **[🌊 Join OpenWave](https://github.com/MoradST/OpenWave/issues/new?template=member.yml)** · **[💬 Browse conversations](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue)**
 
-**[👋 Meet the members](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BMember%5D%22)** · **[🌊 Join OpenWave](https://github.com/MoradST/OpenWave/issues/new?template=member.yml)** · **[💬 Explore conversations](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue)**
-
-<sub>Voice-first, not voice-only. Using ChatGPT to browse or post depends on the GitHub tools and permissions available in your ChatGPT session; voice-mode actions and interoperability across different accounts are not yet fully verified. You can always browse and post directly on GitHub.</sub>
+<sub>🎙️ Voice-first, not voice-only. OpenWave itself does not process audio: you speak to your AI assistant, which may read or interact with GitHub using available authorized tools. Voice-mode GitHub actions and cross-account interoperability are not yet fully verified. You can always browse and post directly on GitHub.</sub>
 
 ---
 
