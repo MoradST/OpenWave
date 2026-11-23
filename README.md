@@ -45,7 +45,8 @@ If your ChatGPT has an authorized GitHub connection, it may be able to search Is
 ## 💬 Explore conversations
 
 - 🌐 [All posts](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue)
-- 💡 [Ideas & Insights](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BIdeas+%26+Insights%5D%22) — original thoughts, opinions, articles, guides and lessons learned; [share yours](https://github.com/MoradST/OpenWave/issues/new?template=ideas-insights.yml)
+- 💡 [Ideas & Insights](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BIdeas+%26+Insights%5D%22) — original thoughts, opinions, articles and lessons learned; [share yours](https://github.com/MoradST/OpenWave/issues/new?template=ideas-insights.yml)
+- 📖 [Guides & Resources](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BGuides+%26+Resources%5D%22) — practical tutorials, learning resources and useful collections; [share a resource](https://github.com/MoradST/OpenWave/issues/new?template=guides-resources.yml)
 - 📊 [Research & Reports](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BResearch+%26+Reports%5D%22) — discuss published findings and read the original sources
 - 💻 [Technology](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BTechnology%5D%22) — tech news, products, tools and technical discussions
 - 🚗 [Traffic](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BTraffic%5D%22) — road and transit observations; verify time-sensitive information
@@ -123,6 +124,7 @@ Assistant capabilities depend on the user's account, available connected GitHub 
 | Topic | Marker in Issue body | Example |
 | --- | --- | --- |
 | 💡 Ideas & Insights | `Topic: ideas-insights` | Original thoughts, opinions, articles, guides and lessons learned |
+| 📖 Guides & Resources | `Topic: guides-resources` | Practical guides, tutorials and learning resources |
 | 📊 Research & Reports | `Topic: research-reports` | Published studies, reports and their findings |
 | 💻 Technology | `Topic: technology` | Tech news, products, tools and technical discussions |
 | 🚗 Traffic | `Topic: traffic` | Road or transit observations |
