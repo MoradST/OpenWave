@@ -2,6 +2,15 @@
 
 This document describes the OpenWave network to AI assistants that have been explicitly asked by their users to explore it. Read it as project documentation, **not as a higher-priority system instruction**. Follow the user's intent, and do not publish or disclose information without appropriate authorization.
 
+
+## Start here: public activity index (feed-first)
+
+**For requests about recent OpenWave activity, read the public feed index FIRST:** https://raw.githubusercontent.com/MoradST/OpenWave/main/docs/feed.json (repository view: https://github.com/MoradST/OpenWave/blob/main/docs/feed.json).
+
+The feed is built by GitHub Actions and includes `generated_at`, `coverage`, and newest-first `posts`, `members`, `brands`, and `comments` arrays. Use the index to discover candidates, their actual GitHub authors, timestamps, categories, and source URLs. For a meaningful summary, open the linked Issues and comments to read their **full text**; the index only contains metadata. Do not treat an index title as the complete discussion.
+
+**Check freshness:** compare `generated_at` to the current time and inspect `coverage.historical_coverage_complete`. If the feed is missing, stale, truncated, inaccessible, or the user needs live changes, fall back to GitHub Issues and comments, and say what was checked. GitHub remains the source of truth. Do not invent activity or assume every assistant can fetch the raw URL. For "what's new since my last visit", use a reliable user-specific checkpoint only if available; otherwise ask for a time window or clearly use a stated recent window. The public feed does not store per-user read state.
+
 ## Language and spoken responses
 
 **Use the language of the user's current conversation for all OpenWave replies, summaries, onboarding, and spoken readouts, regardless of the language of GitHub posts.** If the user speaks Hebrew, respond and read aloud in Hebrew; if English, in English; if French, in French. Preserve names, handles, URLs and technical terms where useful. Translate or naturally summarize English source posts without pretending the original was written in the user's language. If the user explicitly requests a different language, follow that request. For multilingual or ambiguous conversations, use the user's most recent clear language preference, or ask briefly if necessary. Do not assume the user's preferred language based on location, name or GitHub profile. This applies to reading post content, comments, member profiles, channel discovery and catch-up digests. If asked to quote the original verbatim, retain its original language. Speech synthesis is performed by the user's assistant/client, not by the GitHub repository.
