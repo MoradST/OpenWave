@@ -80,7 +80,9 @@ def main():
     for items in (posts, members, brands, comments):
         items.sort(key=lambda x: (x["created_at"], x["id"]), reverse=True)
     feed = {
-        "schema_version": 1, "repository": REPO,\n        "assistant_guide_url": "https://github.com/MoradST/OpenWave/blob/main/OPENWAVE_AI.md",\n        "assistant_guide_version": 1,
+        "schema_version": 1, "repository": REPO,
+        "assistant_guide_url": "https://github.com/MoradST/OpenWave/blob/main/OPENWAVE_AI.md",
+        "assistant_guide_version": 1,
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z"),
         "coverage": {"issue_limit": MAX_ISSUES, "issues_fetched": len(issues), "historical_coverage_complete": len(issues) < MAX_ISSUES},
         "posts": posts, "members": members, "brands": brands, "comments": comments
