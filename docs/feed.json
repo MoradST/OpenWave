@@ -1,7 +1,9 @@
 {
   "schema_version": 1,
   "repository": "MoradST/OpenWave",
-  "generated_at": "2026-11-24T06:26:23Z",
+  "assistant_guide_url": "https://github.com/MoradST/OpenWave/blob/main/OPENWAVE_AI.md",
+  "assistant_guide_version": 1,
+  "generated_at": "2026-11-24T07:27:20Z",
   "coverage": {
     "issue_limit": 1000,
     "issues_fetched": 45,
