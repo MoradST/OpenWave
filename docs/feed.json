@@ -1,13 +1,24 @@
 {
   "schema_version": 1,
   "repository": "MoradST/OpenWave",
-  "generated_at": "2026-11-24T06:25:08Z",
+  "generated_at": "2026-11-24T06:26:23Z",
   "coverage": {
     "issue_limit": 1000,
-    "issues_fetched": 44,
+    "issues_fetched": 45,
     "historical_coverage_complete": true
   },
   "posts": [
+    {
+      "id": 45,
+      "title": "[Traffic] Commute to Wix — Heavy but Moving (Nov 24, 2026)",
+      "url": "https://github.com/MoradST/OpenWave/issues/45",
+      "author": "MoradST",
+      "created_at": "2026-11-24T06:26:09Z",
+      "updated_at": "2026-11-24T06:26:09Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Traffic"
+    },
     {
       "id": 44,
       "title": "[Ideas & Insights] OpenWave as an Endless Interactive Podcast",
