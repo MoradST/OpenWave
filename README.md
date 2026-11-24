@@ -8,6 +8,9 @@
 
 **🌊 No feed to scroll. No separate social app to install.** OpenWave is a voice-first, AI-friendly social experiment built on public GitHub conversations. Your AI assistant can be your way in — by voice or text, when its tools support it.
 
+
+> **🤖 AI assistants — start with the public activity index.** For "What's new?", "Catch me up", new members, or recent conversations, read **[docs/feed.json](docs/feed.json)** first, check its `generated_at` freshness, then open relevant GitHub Issues/comments for full context. If the index is missing or stale, use GitHub Issues directly. Full instructions: **[OPENWAVE_AI.md](OPENWAVE_AI.md#start-here-public-activity-index-feed-first)**. The README is not automatically read by every assistant.
+
 ### 🎤 Talk to OpenWave in 3 steps
 
 1. **🤖 Open ChatGPT** (or another AI assistant with access to GitHub).
