@@ -1,0 +1,617 @@
+{
+  "schema_version": 1,
+  "repository": "MoradST/OpenWave",
+  "generated_at": "2026-11-24T06:25:08Z",
+  "coverage": {
+    "issue_limit": 1000,
+    "issues_fetched": 44,
+    "historical_coverage_complete": true
+  },
+  "posts": [
+    {
+      "id": 44,
+      "title": "[Ideas & Insights] OpenWave as an Endless Interactive Podcast",
+      "url": "https://github.com/MoradST/OpenWave/issues/44",
+      "author": "MoradST",
+      "created_at": "2026-11-24T06:24:48Z",
+      "updated_at": "2026-11-24T06:24:48Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Ideas & Insights"
+    },
+    {
+      "id": 43,
+      "title": "[Ideas & Insights] Does a Social Network Still Need an App?",
+      "url": "https://github.com/MoradST/OpenWave/issues/43",
+      "author": "MoradST",
+      "created_at": "2026-11-24T06:24:46Z",
+      "updated_at": "2026-11-24T06:24:46Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Ideas & Insights"
+    },
+    {
+      "id": 42,
+      "title": "[Technology] Google Antigravity Resets Gemini Quotas and Expands Model Access",
+      "url": "https://github.com/MoradST/OpenWave/issues/42",
+      "author": "ShalevZorany",
+      "created_at": "2026-11-23T20:41:44Z",
+      "updated_at": "2026-11-23T20:41:44Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Technology"
+    },
+    {
+      "id": 41,
+      "title": "[Technology] GPT-6.2 Sol Is Rolling Out to Regular ChatGPT Chats",
+      "url": "https://github.com/MoradST/OpenWave/issues/41",
+      "author": "ShalevZorany",
+      "created_at": "2026-11-23T19:41:54Z",
+      "updated_at": "2026-11-23T19:41:54Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Technology"
+    },
+    {
+      "id": 40,
+      "title": "[Technology] Jensen Huang Returns as NVIDIA CEO — Shares Surge 33% at the Open",
+      "url": "https://github.com/MoradST/OpenWave/issues/40",
+      "author": "MoradST",
+      "created_at": "2026-11-23T18:29:38Z",
+      "updated_at": "2026-11-23T18:29:38Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Technology"
+    },
+    {
+      "id": 39,
+      "title": "[Guides & Resources] How Do LLMs Actually Work? A Clear Guide from Wix Engineering",
+      "url": "https://github.com/MoradST/OpenWave/issues/39",
+      "author": "MoradST",
+      "created_at": "2026-11-23T06:38:34Z",
+      "updated_at": "2026-11-23T06:38:34Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Guides & Resources"
+    },
+    {
+      "id": 38,
+      "title": "[Guides & Resources] LinkedIn 2027: 7 Practical Moves Beyond Algorithm Tricks",
+      "url": "https://github.com/MoradST/OpenWave/issues/38",
+      "author": "MoradST",
+      "created_at": "2026-11-23T06:36:41Z",
+      "updated_at": "2026-11-23T06:36:41Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Guides & Resources"
+    },
+    {
+      "id": 37,
+      "title": "[Ideas & Insights] Stop Networking. Start Being Useful.",
+      "url": "https://github.com/MoradST/OpenWave/issues/37",
+      "author": "MoradST",
+      "created_at": "2026-11-23T06:32:38Z",
+      "updated_at": "2026-11-23T15:25:34Z",
+      "state": "open",
+      "comment_count": 2,
+      "category": "Ideas & Insights"
+    },
+    {
+      "id": 36,
+      "title": "[Guides & Resources] Your first open-source contribution is easier than you think",
+      "url": "https://github.com/MoradST/OpenWave/issues/36",
+      "author": "MoradST",
+      "created_at": "2026-11-23T06:28:12Z",
+      "updated_at": "2026-11-23T06:29:29Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Guides & Resources"
+    },
+    {
+      "id": 35,
+      "title": "[Books] שובר שוויון — למה דווקא בעידן ה-AI חשוב לבנות שם שאנשים זוכרים?",
+      "url": "https://github.com/MoradST/OpenWave/issues/35",
+      "author": "MoradST",
+      "created_at": "2026-11-23T06:05:43Z",
+      "updated_at": "2026-11-23T06:06:52Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Books"
+    },
+    {
+      "id": 34,
+      "title": "[Podcasts] המלצה: הפרק על Seinfeld בפודקאסט Acquired",
+      "url": "https://github.com/MoradST/OpenWave/issues/34",
+      "author": "MoradST",
+      "created_at": "2026-11-23T06:04:02Z",
+      "updated_at": "2026-11-23T06:04:02Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Podcasts"
+    },
+    {
+      "id": 33,
+      "title": "[Traffic] עומס כבד מנתניה לקמפוס Wix בתל אביב — 23.11.2026, 08:00",
+      "url": "https://github.com/MoradST/OpenWave/issues/33",
+      "author": "MoradST",
+      "created_at": "2026-11-23T06:03:09Z",
+      "updated_at": "2026-11-23T06:03:09Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Traffic"
+    },
+    {
+      "id": 32,
+      "title": "[Ideas & Insights] האם יש עתיד למערכות CRM בעידן ה-AI?",
+      "url": "https://github.com/MoradST/OpenWave/issues/32",
+      "author": "shuraki",
+      "created_at": "2026-11-22T15:34:01Z",
+      "updated_at": "2026-11-22T15:34:01Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Ideas & Insights"
+    },
+    {
+      "id": 30,
+      "title": "[Ideas & Insights] By the time dinner was ready, Simon Willison had a working newsletter archive | A cool case study",
+      "url": "https://github.com/MoradST/OpenWave/issues/30",
+      "author": "MoradST",
+      "created_at": "2026-11-22T12:16:46Z",
+      "updated_at": "2026-11-22T12:16:46Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Ideas & Insights"
+    },
+    {
+      "id": 29,
+      "title": "[Community Apps] Lighthouse App Port — ארבעה קיצורים בשורת התפריטים של המק",
+      "url": "https://github.com/MoradST/OpenWave/issues/29",
+      "author": "MoradST",
+      "created_at": "2026-11-22T09:25:32Z",
+      "updated_at": "2026-11-22T09:25:32Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Community Apps"
+    },
+    {
+      "id": 28,
+      "title": "[Research & Reports] מה קורה כשתלמידים נועלים את הטלפון ליום שלם? מחקר ענק על יותר משלושה מיליון תלמידים מצא שהם הרוויחו עד שבועיים של למידה בשנה",
+      "url": "https://github.com/MoradST/OpenWave/issues/28",
+      "author": "MoradST",
+      "created_at": "2026-11-22T09:22:02Z",
+      "updated_at": "2026-11-22T09:22:02Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Research & Reports"
+    },
+    {
+      "id": 27,
+      "title": "[Ideas & Insights] A curated list turned out to be a better intro than a pitch",
+      "url": "https://github.com/MoradST/OpenWave/issues/27",
+      "author": "talhareltal",
+      "created_at": "2026-11-22T09:14:26Z",
+      "updated_at": "2026-11-23T06:23:12Z",
+      "state": "open",
+      "comment_count": 1,
+      "category": "Ideas & Insights"
+    },
+    {
+      "id": 24,
+      "title": "[Ideas & Insights] Your network starts growing before you need it",
+      "url": "https://github.com/MoradST/OpenWave/issues/24",
+      "author": "MoradST",
+      "created_at": "2026-11-22T06:33:14Z",
+      "updated_at": "2026-11-22T07:50:37Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Ideas & Insights"
+    },
+    {
+      "id": 23,
+      "title": "[Technology] Can AI help solve one of mathematics’ biggest mysteries?",
+      "url": "https://github.com/MoradST/OpenWave/issues/23",
+      "author": "MoradST",
+      "created_at": "2026-11-22T06:31:57Z",
+      "updated_at": "2026-11-22T06:31:57Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Technology"
+    },
+    {
+      "id": 22,
+      "title": "[Community Apps] Guess Four - A code-breaking game built with AI",
+      "url": "https://github.com/MoradST/OpenWave/issues/22",
+      "author": "ShalevZorany",
+      "created_at": "2026-11-21T19:43:04Z",
+      "updated_at": "2026-11-21T19:43:04Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Community Apps"
+    },
+    {
+      "id": 21,
+      "title": "[Technology] Neuralink participant plays GTA VI using brain signals",
+      "url": "https://github.com/MoradST/OpenWave/issues/21",
+      "author": "MoradST",
+      "created_at": "2026-11-21T15:23:38Z",
+      "updated_at": "2026-11-21T15:23:38Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Technology"
+    },
+    {
+      "id": 20,
+      "title": "[Community Apps] BeatAlive — Make your Mac come alive with music",
+      "url": "https://github.com/MoradST/OpenWave/issues/20",
+      "author": "MoradST",
+      "created_at": "2026-11-21T15:22:00Z",
+      "updated_at": "2026-11-22T09:25:33Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Community Apps"
+    },
+    {
+      "id": 15,
+      "title": "[Community Events] Wix Engineering Meetup: Data Agents, Beyond the Demo — Nov 23, Tel Aviv",
+      "url": "https://github.com/MoradST/OpenWave/issues/15",
+      "author": "MoradST",
+      "created_at": "2026-11-20T10:30:09Z",
+      "updated_at": "2026-11-20T13:05:40Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Community Events"
+    },
+    {
+      "id": 14,
+      "title": "[Community Events] Reversim Winter Summit 2026 — Nov 30–Dec 1, Tel Aviv",
+      "url": "https://github.com/MoradST/OpenWave/issues/14",
+      "author": "MoradST",
+      "created_at": "2026-11-20T10:30:08Z",
+      "updated_at": "2026-11-20T10:30:08Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Community Events"
+    },
+    {
+      "id": 13,
+      "title": "[Technology] GTA VI launch drives a 50% spike in Israeli international internet traffic",
+      "url": "https://github.com/MoradST/OpenWave/issues/13",
+      "author": "MoradST",
+      "created_at": "2026-11-20T10:12:34Z",
+      "updated_at": "2026-11-20T10:12:34Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Technology"
+    },
+    {
+      "id": 9,
+      "title": "[Technology] Should AI agents undergo trust checks before receiving sensitive access?",
+      "url": "https://github.com/MoradST/OpenWave/issues/9",
+      "author": "reissbay",
+      "created_at": "2026-11-20T08:19:40Z",
+      "updated_at": "2026-11-23T06:48:35Z",
+      "state": "open",
+      "comment_count": 2,
+      "category": "Technology"
+    },
+    {
+      "id": 7,
+      "title": "Alex M.",
+      "url": "https://github.com/MoradST/OpenWave/issues/7",
+      "author": "rotemshap-kafhagoral13",
+      "created_at": "2026-11-20T08:16:14Z",
+      "updated_at": "2026-11-20T08:16:14Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "General"
+    },
+    {
+      "id": 5,
+      "title": "[Technology] Microsoft Ignite 2026: AI agents meet organizational intelligence",
+      "url": "https://github.com/MoradST/OpenWave/issues/5",
+      "author": "MoradST",
+      "created_at": "2026-11-20T08:12:12Z",
+      "updated_at": "2026-11-20T08:12:12Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Technology"
+    },
+    {
+      "id": 3,
+      "title": "[Technology] Huawei's 6.9mm Watch Air is set for a November 24 debut",
+      "url": "https://github.com/MoradST/OpenWave/issues/3",
+      "author": "MoradST",
+      "created_at": "2026-11-20T07:19:22Z",
+      "updated_at": "2026-11-20T07:19:22Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Technology"
+    },
+    {
+      "id": 2,
+      "title": "[Technology] Anthropic's record $81B IPO puts AI profitability under the spotlight",
+      "url": "https://github.com/MoradST/OpenWave/issues/2",
+      "author": "MoradST",
+      "created_at": "2026-11-20T07:19:20Z",
+      "updated_at": "2026-11-20T07:19:20Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Technology"
+    },
+    {
+      "id": 1,
+      "title": "[General] Welcome to OpenWave 🌊",
+      "url": "https://github.com/MoradST/OpenWave/issues/1",
+      "author": "MoradST",
+      "created_at": "2026-11-20T07:17:33Z",
+      "updated_at": "2026-11-20T07:17:33Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "General"
+    }
+  ],
+  "members": [
+    {
+      "id": 31,
+      "title": "[Member] אוריאל שוראקי",
+      "url": "https://github.com/MoradST/OpenWave/issues/31",
+      "author": "shuraki",
+      "created_at": "2026-11-22T15:14:49Z",
+      "updated_at": "2026-11-22T15:56:58Z",
+      "state": "open",
+      "comment_count": 2
+    },
+    {
+      "id": 26,
+      "title": "[Member] Tal Harel",
+      "url": "https://github.com/MoradST/OpenWave/issues/26",
+      "author": "talhareltal",
+      "created_at": "2026-11-22T09:10:02Z",
+      "updated_at": "2026-11-22T09:18:35Z",
+      "state": "open",
+      "comment_count": 1
+    },
+    {
+      "id": 25,
+      "title": "[Member] Lior Israel — The Simple Architect[Member]",
+      "url": "https://github.com/MoradST/OpenWave/issues/25",
+      "author": "LiorI9",
+      "created_at": "2026-11-22T08:59:35Z",
+      "updated_at": "2026-11-23T00:47:47Z",
+      "state": "open",
+      "comment_count": 1
+    },
+    {
+      "id": 19,
+      "title": "[Member] Shalev",
+      "url": "https://github.com/MoradST/OpenWave/issues/19",
+      "author": "ShalevZorany",
+      "created_at": "2026-11-20T18:59:15Z",
+      "updated_at": "2026-11-21T19:03:59Z",
+      "state": "open",
+      "comment_count": 4
+    },
+    {
+      "id": 18,
+      "title": "[Member] Israel – Technology, AI & Innovation",
+      "url": "https://github.com/MoradST/OpenWave/issues/18",
+      "author": "amos2905-glitch",
+      "created_at": "2026-11-20T16:33:53Z",
+      "updated_at": "2026-11-20T16:33:53Z",
+      "state": "open",
+      "comment_count": 0
+    },
+    {
+      "id": 16,
+      "title": "[Member] AdamS",
+      "url": "https://github.com/MoradST/OpenWave/issues/16",
+      "author": "adamshmuel",
+      "created_at": "2026-11-20T10:31:39Z",
+      "updated_at": "2026-11-20T11:29:45Z",
+      "state": "open",
+      "comment_count": 1
+    },
+    {
+      "id": 12,
+      "title": "[Member] Hillel",
+      "url": "https://github.com/MoradST/OpenWave/issues/12",
+      "author": "hillelGonen",
+      "created_at": "2026-11-20T10:02:15Z",
+      "updated_at": "2026-11-20T11:29:46Z",
+      "state": "open",
+      "comment_count": 1
+    },
+    {
+      "id": 11,
+      "title": "[Member] Jonathan",
+      "url": "https://github.com/MoradST/OpenWave/issues/11",
+      "author": "jonathanarad84",
+      "created_at": "2026-11-20T09:47:48Z",
+      "updated_at": "2026-11-20T09:59:02Z",
+      "state": "open",
+      "comment_count": 0
+    },
+    {
+      "id": 8,
+      "title": "[Member] Ofer Reiss",
+      "url": "https://github.com/MoradST/OpenWave/issues/8",
+      "author": "reissbay",
+      "created_at": "2026-11-20T08:17:47Z",
+      "updated_at": "2026-11-20T08:17:47Z",
+      "state": "open",
+      "comment_count": 0
+    },
+    {
+      "id": 6,
+      "title": "[Member] Israel Shok",
+      "url": "https://github.com/MoradST/OpenWave/issues/6",
+      "author": "IsraelShok",
+      "created_at": "2026-11-20T08:13:13Z",
+      "updated_at": "2026-11-20T11:30:12Z",
+      "state": "open",
+      "comment_count": 1
+    },
+    {
+      "id": 4,
+      "title": "[Member] Morad Stern — Creator of OpenWave",
+      "url": "https://github.com/MoradST/OpenWave/issues/4",
+      "author": "MoradST",
+      "created_at": "2026-11-20T07:37:50Z",
+      "updated_at": "2026-11-20T08:13:17Z",
+      "state": "open",
+      "comment_count": 0
+    }
+  ],
+  "brands": [
+    {
+      "id": 17,
+      "title": "[Brand] Israel Tech — Tech Israel Telegram Channel",
+      "url": "https://github.com/MoradST/OpenWave/issues/17",
+      "author": "MoradST",
+      "created_at": "2026-11-20T13:05:57Z",
+      "updated_at": "2026-11-20T13:05:57Z",
+      "state": "open",
+      "comment_count": 0
+    },
+    {
+      "id": 10,
+      "title": "[Brand] ProfCheck",
+      "url": "https://github.com/MoradST/OpenWave/issues/10",
+      "author": "reissbay",
+      "created_at": "2026-11-20T08:23:05Z",
+      "updated_at": "2026-11-20T08:23:05Z",
+      "state": "open",
+      "comment_count": 0
+    }
+  ],
+  "comments": [
+    {
+      "id": 7105546077,
+      "issue_id": 37,
+      "author": "LiorI9",
+      "url": "https://github.com/MoradST/OpenWave/issues/37#issuecomment-7105546077",
+      "created_at": "2026-11-23T15:25:34Z",
+      "updated_at": "2026-11-23T15:25:34Z"
+    },
+    {
+      "id": 7097142259,
+      "issue_id": 37,
+      "author": "talhareltal",
+      "url": "https://github.com/MoradST/OpenWave/issues/37#issuecomment-7097142259",
+      "created_at": "2026-11-23T09:49:37Z",
+      "updated_at": "2026-11-23T09:49:37Z"
+    },
+    {
+      "id": 7093696644,
+      "issue_id": 9,
+      "author": "LiorI9",
+      "url": "https://github.com/MoradST/OpenWave/issues/9#issuecomment-7093696644",
+      "created_at": "2026-11-23T06:48:35Z",
+      "updated_at": "2026-11-23T06:48:35Z"
+    },
+    {
+      "id": 7093284661,
+      "issue_id": 27,
+      "author": "MoradST",
+      "url": "https://github.com/MoradST/OpenWave/issues/27#issuecomment-7093284661",
+      "created_at": "2026-11-23T06:23:11Z",
+      "updated_at": "2026-11-23T06:23:11Z"
+    },
+    {
+      "id": 7088640229,
+      "issue_id": 25,
+      "author": "LiorI9",
+      "url": "https://github.com/MoradST/OpenWave/issues/25#issuecomment-7088640229",
+      "created_at": "2026-11-23T00:47:47Z",
+      "updated_at": "2026-11-23T00:47:47Z"
+    },
+    {
+      "id": 7081696212,
+      "issue_id": 31,
+      "author": "shuraki",
+      "url": "https://github.com/MoradST/OpenWave/issues/31#issuecomment-7081696212",
+      "created_at": "2026-11-22T15:56:57Z",
+      "updated_at": "2026-11-22T15:56:57Z"
+    },
+    {
+      "id": 7081637189,
+      "issue_id": 31,
+      "author": "MoradST",
+      "url": "https://github.com/MoradST/OpenWave/issues/31#issuecomment-7081637189",
+      "created_at": "2026-11-22T15:52:19Z",
+      "updated_at": "2026-11-22T15:52:19Z"
+    },
+    {
+      "id": 7077065974,
+      "issue_id": 26,
+      "author": "MoradST",
+      "url": "https://github.com/MoradST/OpenWave/issues/26#issuecomment-7077065974",
+      "created_at": "2026-11-22T09:18:35Z",
+      "updated_at": "2026-11-22T09:18:35Z"
+    },
+    {
+      "id": 7067734000,
+      "issue_id": 19,
+      "author": "ShalevZorany",
+      "url": "https://github.com/MoradST/OpenWave/issues/19#issuecomment-7067734000",
+      "created_at": "2026-11-21T19:03:59Z",
+      "updated_at": "2026-11-21T19:03:59Z"
+    },
+    {
+      "id": 7066689223,
+      "issue_id": 19,
+      "author": "MoradST",
+      "url": "https://github.com/MoradST/OpenWave/issues/19#issuecomment-7066689223",
+      "created_at": "2026-11-21T17:42:53Z",
+      "updated_at": "2026-11-21T17:42:53Z"
+    },
+    {
+      "id": 7066261077,
+      "issue_id": 19,
+      "author": "ShalevZorany",
+      "url": "https://github.com/MoradST/OpenWave/issues/19#issuecomment-7066261077",
+      "created_at": "2026-11-21T17:09:58Z",
+      "updated_at": "2026-11-21T17:09:58Z"
+    },
+    {
+      "id": 7064815235,
+      "issue_id": 19,
+      "author": "MoradST",
+      "url": "https://github.com/MoradST/OpenWave/issues/19#issuecomment-7064815235",
+      "created_at": "2026-11-21T15:21:48Z",
+      "updated_at": "2026-11-21T15:21:48Z"
+    },
+    {
+      "id": 7038419747,
+      "issue_id": 6,
+      "author": "MoradST",
+      "url": "https://github.com/MoradST/OpenWave/issues/6#issuecomment-7038419747",
+      "created_at": "2026-11-20T11:30:12Z",
+      "updated_at": "2026-11-20T11:30:12Z"
+    },
+    {
+      "id": 7038411249,
+      "issue_id": 12,
+      "author": "MoradST",
+      "url": "https://github.com/MoradST/OpenWave/issues/12#issuecomment-7038411249",
+      "created_at": "2026-11-20T11:29:46Z",
+      "updated_at": "2026-11-20T11:29:46Z"
+    },
+    {
+      "id": 7038410776,
+      "issue_id": 16,
+      "author": "MoradST",
+      "url": "https://github.com/MoradST/OpenWave/issues/16#issuecomment-7038410776",
+      "created_at": "2026-11-20T11:29:45Z",
+      "updated_at": "2026-11-20T11:29:45Z"
+    },
+    {
+      "id": 7037927938,
+      "issue_id": 9,
+      "author": "MoradST",
+      "url": "https://github.com/MoradST/OpenWave/issues/9#issuecomment-7037927938",
+      "created_at": "2026-11-20T11:05:12Z",
+      "updated_at": "2026-11-20T11:05:12Z"
+    }
+  ]
+}
