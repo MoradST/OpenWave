@@ -3,13 +3,24 @@
   "repository": "MoradST/OpenWave",
   "assistant_guide_url": "https://github.com/MoradST/OpenWave/blob/main/OPENWAVE_AI.md",
   "assistant_guide_version": 1,
-  "generated_at": "2026-11-25T06:04:52Z",
+  "generated_at": "2026-11-25T10:17:51Z",
   "coverage": {
     "issue_limit": 1000,
-    "issues_fetched": 46,
+    "issues_fetched": 47,
     "historical_coverage_complete": true
   },
   "posts": [
+    {
+      "id": 47,
+      "title": "[Jobs] What actually gets said behind closed doors in AI layoff meetings",
+      "url": "https://github.com/MoradST/OpenWave/issues/47",
+      "author": "MoradST",
+      "created_at": "2026-11-25T10:17:29Z",
+      "updated_at": "2026-11-25T10:17:29Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Jobs"
+    },
     {
       "id": 46,
       "title": "[Technology] 🖥️ Claude Artifacts can now be installed as desktop apps",
