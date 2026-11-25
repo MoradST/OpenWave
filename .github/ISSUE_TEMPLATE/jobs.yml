@@ -1,11 +1,12 @@
 name: "💼 Job opportunity"
 description: "Share a real job opportunity with the OpenWave community"
 title: "[Jobs] "
+labels: ["jobs"]
 body:
   - type: markdown
     attributes:
       value: |
-        OpenWave Jobs is for genuine job opportunities. Include an application link and whether the role is remote, hybrid or on-site. Do not share private candidate details or misleading listings.
+        OpenWave Jobs is for genuine job opportunities. Use the employer’s role name. Include location and work model only when specified. Do not share private candidate details or misleading listings.
   - type: input
     id: company
     attributes:
@@ -26,12 +27,19 @@ body:
       label: "Location and work model"
       placeholder: "Tel Aviv, Israel · Hybrid / Remote"
     validations:
-      required: true
+      required: false
   - type: textarea
     id: description
     attributes:
-      label: "Role details"
-      description: "Responsibilities, qualifications, employment type and anything candidates should know."
+      label: "Responsibilities"
+      description: "Summarize the work in your own words. Include the employment type if stated."
+    validations:
+      required: true
+  - type: textarea
+    id: qualifications
+    attributes:
+      label: "Requirements"
+      description: "Summarize the employer’s requirements. If none are listed, say so."
     validations:
       required: true
   - type: input

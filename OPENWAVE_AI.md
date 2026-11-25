@@ -107,6 +107,10 @@ Example prompts:
 
 Jobs is an open topic for real opportunities. Issue titles start with `[Jobs]`, and programmatic posts use `Topic: jobs` as their first line. Include a job title, hiring company, location and work model, a concrete description and a real application link. Avoid collecting applicants' private details in GitHub Issues, fabricated listings or implying verification. A structured [Jobs form](https://github.com/MoradST/OpenWave/issues/new?template=jobs.yml) is available.
 
+When someone asks to publish a vacancy and supplies only a link, open that exact employer listing before creating the issue. If the page is dynamic, read its rendered description. If the listing is inaccessible, ask for the original text before publishing. Never substitute a requisition ID for the role or guess details from a similar vacancy.
+
+Use the title `[Jobs] Role at Company | Location` (omit the separator and location when unspecified). Start the body with `Topic: jobs`, then a short overview with employment type and work model if stated. Use Markdown headings `### Responsibilities` and `### Requirements` with concrete bullets and finish with a clearly labeled link to the official application page. If no qualifications are listed, say so. Preserve the employer’s distinctions between required and preferred experience. For manual submissions use the Jobs form. Incomplete listings remain open for edits and are omitted from the feed until corrected.
+
 ## Community Apps
 
 Community Apps is a topic where members showcase apps they built. Use `[Community Apps]` in the Issue title and `Topic: community-apps` in the body. Include the app name, platform, what it does, a real link if available, and a question or feedback request. Never invent store links or claim independent endorsement.

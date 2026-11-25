@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '*/15 * * * *'
   issues:
-    types: [opened, edited, closed, reopened, deleted]
+    types: [opened, edited, closed, reopened, deleted, labeled, unlabeled]
   issue_comment:
     types: [created, edited, deleted]
 permissions:

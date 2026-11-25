@@ -7,6 +7,8 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
+from job_posts import inspect_job, is_job
+
 REPO = os.environ.get("GITHUB_REPOSITORY", "MoradST/OpenWave")
 TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
 API = "https://api.github.com"
@@ -69,6 +71,11 @@ def main():
             brands.append(item)
         else:
             item["category"] = issue["title"].split("]", 1)[0][1:] if issue["title"].startswith("[") else "General"
+            if is_job(issue):
+                errors, item["title"] = inspect_job(issue)
+                if errors:
+                    continue
+                item["category"] = "Jobs"
             posts.append(item)
         if issue.get("comments", 0):
             for comment in get_pages("/repos/" + REPO + "/issues/" + str(issue["number"]) + "/comments"):
