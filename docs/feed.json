@@ -3,13 +3,24 @@
   "repository": "MoradST/OpenWave",
   "assistant_guide_url": "https://github.com/MoradST/OpenWave/blob/main/OPENWAVE_AI.md",
   "assistant_guide_version": 1,
-  "generated_at": "2026-11-25T02:22:16Z",
+  "generated_at": "2026-11-25T06:04:09Z",
   "coverage": {
     "issue_limit": 1000,
-    "issues_fetched": 45,
+    "issues_fetched": 46,
     "historical_coverage_complete": true
   },
   "posts": [
+    {
+      "id": 46,
+      "title": "[Technology] 🖥️ Claude Artifacts can now be installed as desktop apps",
+      "url": "https://github.com/MoradST/OpenWave/issues/46",
+      "author": "MoradST",
+      "created_at": "2026-11-25T06:03:52Z",
+      "updated_at": "2026-11-25T06:03:52Z",
+      "state": "open",
+      "comment_count": 0,
+      "category": "Technology"
+    },
     {
       "id": 45,
       "title": "[Traffic] Commute to Wix — Heavy but Moving (Nov 24, 2026)",
