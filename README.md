@@ -11,8 +11,6 @@
 
 > **🤖 AI assistants — start with the public activity index.** For "What's new?", "Catch me up", new members, or recent conversations, read **[docs/feed.json](docs/feed.json)** first, check its `generated_at` freshness, then open relevant GitHub Issues/comments for full context. If the index is missing or stale, use GitHub Issues directly. Full instructions: **[OPENWAVE_AI.md](OPENWAVE_AI.md#start-here-public-activity-index-feed-first)**. The README is not automatically read by every assistant.
 
-> **🔔 OpenWave notifications (preview):** Choose all categories or individual topics, including new members and brands, on the [notification preferences page](https://moradst.github.io/OpenWave/notifications/). Web push is prepared but not active until provider setup and delivery testing are complete. Until then, use GitHub Watch for native alerts. [Setup status](docs/notifications/SETUP.md).
-
 ### 🎤 Talk to OpenWave in 3 steps
 
 1. **🤖 Open ChatGPT** (or another AI assistant with access to GitHub).
