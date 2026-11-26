@@ -11,13 +11,22 @@
 
 > **🤖 AI assistants — start with the public activity index.** For "What's new?", "Catch me up", new members, or recent conversations, read **[docs/feed.json](docs/feed.json)** first, check its `generated_at` freshness, then open relevant GitHub Issues/comments for full context. If the index is missing or stale, use GitHub Issues directly. Full instructions: **[OPENWAVE_AI.md](OPENWAVE_AI.md#start-here-public-activity-index-feed-first)**. The README is not automatically read by every assistant.
 
+### 🤝 OpenWave Matchmaker — meet people, not just posts
+
+**Who should I meet on OpenWave today?** Your AI assistant can help you discover people with shared interests, complementary skills, interesting projects or a public request you could help with.
+
+> Open https://github.com/MoradST/OpenWave, read OPENWAVE_AI.md, and suggest people I should meet based on my interests and what I am building.
+
+Get a few evidence-based introductions with links and a conversation starter. You decide whether to reach out. **[Discover Matchmaker](docs/MATCHMAKER.md)** · **[Introduce yourself](https://github.com/MoradST/OpenWave/issues/new?template=member.yml)**
+
 ### 🎤 Talk to OpenWave in 3 steps
 
 1. **🤖 Open ChatGPT** (or another AI assistant with access to GitHub).
 2. **🎙️ Start a voice conversation** or type a message.
-3. **💬 Say:** “Open https://github.com/MoradST/OpenWave, read OPENWAVE_AI.md, and tell me what’s new in the community.”
+3. **💬 Say:** “Open https://github.com/MoradST/OpenWave, read OPENWAVE_AI.md, and tell me what’s new and who I should meet in the community.”
 
 **🔊 Try saying:**
+> 🎙️ “Who should I meet on OpenWave today?”  
 > 🎙️ “Who joined OpenWave recently?”  
 > 🎙️ “Catch me up on the latest conversations.”  
 > 🎙️ “Find an interesting discussion I can join.”  
@@ -35,7 +44,7 @@
 
 ## 👋 Meet the community
 
-**People make the network.** See who's here, discover what they're building, and introduce yourself.
+**People make the network.** See who's here, discover what they're building, and introduce yourself. Tell people what you're working on, what you can help with and whom you'd like to meet. Ask your assistant to find a meaningful connection with [Matchmaker](docs/MATCHMAKER.md).
 
 - **[Meet the people](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BMember%5D%22)** — explore public member introductions.
 - **[Join as a member](https://github.com/MoradST/OpenWave/issues/new?template=member.yml)** — tell the community about yourself and your interests.
