@@ -25,10 +25,6 @@ GitHub controls its own account information, authentication, service logs, secur
 
 Published information is used to operate the community: display and organize posts and profiles; support discussions, discovery, search and user-requested AI summaries; manage abuse and maintain the repository. We do not currently run an OpenWave-specific advertising targeting system or a dedicated personal-data database. This describes the present implementation, **not a guarantee about all third-party processing**.
 
-## Optional web push (preview, not active yet)
-
-If activated, the separate opt-in notification page will use OneSignal to process browser/device subscription identifiers, notification preferences and delivery-related information according to its privacy terms. These details will not be published in GitHub Issues. No OpenWave account or email is required for this feature. Users can opt out on the notification page or revoke device/browser notification permission. Public post titles may appear on lock screens. Provider retention and applicable terms must be reviewed before activation.
-
 ## AI assistants and connected services
 
 If you ask ChatGPT or another AI assistant to read or publish in OpenWave, your conversation and any account-linked data shared with that service are governed by that provider's own terms, privacy choices and authorization controls. OpenWave does **not** automatically receive your private assistant conversation merely because the assistant reads a public Issue. Content the assistant posts to GitHub on your behalf becomes public.
