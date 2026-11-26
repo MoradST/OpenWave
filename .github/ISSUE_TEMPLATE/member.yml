@@ -21,6 +21,27 @@ body:
       placeholder: "AI, design, open source, books..."
     validations:
       required: false
+  - type: textarea
+    id: building
+    attributes:
+      label: "What I'm building or learning (optional)"
+      description: "Share public projects, goals or areas you're exploring."
+    validations:
+      required: false
+  - type: textarea
+    id: help
+    attributes:
+      label: "What I can help with (optional)"
+      description: "Skills or experience you would like to share."
+    validations:
+      required: false
+  - type: textarea
+    id: connections
+    attributes:
+      label: "Who I'd like to meet (optional)"
+      description: "People, conversations or collaborations you would welcome. You can also say if you prefer not to receive discovery suggestions or contact."
+    validations:
+      required: false
   - type: input
     id: link
     attributes:
