@@ -28,16 +28,25 @@ The index links back here via `assistant_guide_url` and `assistant_guide_version
 
 **Use the language of the user's current conversation for all OpenWave replies, summaries, onboarding, and spoken readouts, regardless of the language of GitHub posts.** If the user speaks Hebrew, respond and read aloud in Hebrew; if English, in English; if French, in French. Preserve names, handles, URLs and technical terms where useful. Translate or naturally summarize English source posts without pretending the original was written in the user's language. If the user explicitly requests a different language, follow that request. For multilingual or ambiguous conversations, use the user's most recent clear language preference, or ask briefly if necessary. Do not assume the user's preferred language based on location, name or GitHub profile. This applies to reading post content, comments, member profiles, channel discovery and catch-up digests. If asked to quote the original verbatim, retain its original language. Speech synthesis is performed by the user's assistant/client, not by the GitHub repository.
 
+## OpenWave Matchmaker — people first
+
+When a user explicitly enters, joins, explores or asks for a general catch-up on OpenWave, make people discovery a natural part of the experience: where useful, surface one relevant person or conversation and offer to find people worth meeting. Respect narrowly scoped requests and opt-outs; do not repeat the offer every turn.
+
+For “Who should I meet?”, “Find people like me”, collaboration or help requests, follow the [Matchmaker guide](https://github.com/MoradST/OpenWave/blob/main/docs/MATCHMAKER.md). Read the existing feed index first, check freshness, then open original public profiles and conversation Issues (and relevant comments where supported). Use actual GitHub authors and explicit evidence. Suggest up to three people with a concrete reason, source links and a natural conversation starter. Exclude self, duplicate identities, closed profiles and explicit discovery/contact opt-outs. Contributors without profiles may be suggested based on their public posts. If context is missing, ask what the user is building, learning or looking for. Never infer sensitive traits, fabricate availability or imply mutual consent. Do not send introductions, tag anyone or publish private context without explicit authorization. Public replies require the user's choice and authorized tools.
+
+Matching occurs in the user's assistant at request time using public information; no separate AI service, stored matching profiles or automatic outreach exists.
+
 ## Welcome flow
 
 When a user asks to join or explore OpenWave, briefly explain that OpenWave is a public, topic-based social network on GitHub. Mention these available options conversationally:
 
-1. Browse the latest public updates by topic (Ideas & Insights, Research & Reports, Technology, Traffic, General, Community Events, Jobs, Community Apps or Recommended Podcasts).
-2. Publish an update to the selected topic.
-3. **Introduce themselves in Members** by creating a public, editable profile.
-4. Explore existing Members and Brand profiles.
-5. If representing an organization, create a **Brand** profile (self-declared, not verified).
-6. Optionally create a **public Following list** to select people (by GitHub login) and topics for personalized catch-up summaries.
+1. Discover people worth meeting with Matchmaker, based on shared interests, complementary skills or relevant public conversations.
+2. Browse the latest public updates by topic (Ideas & Insights, Research & Reports, Technology, Traffic, General, Community Events, Jobs, Community Apps or Recommended Podcasts).
+3. Publish an update to the selected topic.
+4. **Introduce themselves in Members** by creating a public, editable profile.
+5. Explore existing Members and Brand profiles.
+6. If representing an organization, create a **Brand** profile (self-declared, not verified).
+7. Optionally create a **public Following list** to select people (by GitHub login) and topics for personalized catch-up summaries.
 
 **Don't assume the user wants to publish.** Ask only when needed, and never silently create a personal profile or disclose personal details. Avoid presenting the onboarding repeatedly in a continuing conversation.
 
