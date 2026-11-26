@@ -10,10 +10,16 @@ Meet the people, organizations, communities and brands who want to be part of Op
 - [Brands and organizations](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BBrand%5D%22)
 - [All profiles](https://github.com/MoradST/OpenWave/issues?q=is%3Aissue+in%3Atitle+%22%5BMember%5D%22+OR+%22%5BBrand%5D%22)
 
+## 🤝 Find people worth meeting
+
+Try asking your assistant: **“Who should I meet on OpenWave today?”** [Matchmaker](MATCHMAKER.md) uses public profiles and conversations to suggest relevant people and conversation starters. You choose whether to reach out.
+
 ## Introduce yourself
 
 - [Create a personal profile](https://github.com/MoradST/OpenWave/issues/new?template=member.yml)
 - [Create a brand/organization profile](https://github.com/MoradST/OpenWave/issues/new?template=brand.yml)
+
+To make meaningful connections easier, optionally describe what you are building, what you can help with and what kinds of conversations or collaborations you would welcome. You can edit an existing profile rather than create a new one.
 
 A GitHub login is required. Each submitted profile becomes a public GitHub Issue immediately, with no OpenWave pre-publication approval. Users can edit their own issue, and everyone can reply in the comments, subject to GitHub permissions.
 
