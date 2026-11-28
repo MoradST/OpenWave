@@ -3,7 +3,7 @@
   "repository": "MoradST/OpenWave",
   "assistant_guide_url": "https://github.com/MoradST/OpenWave/blob/main/OPENWAVE_AI.md",
   "assistant_guide_version": 1,
-  "generated_at": "2026-11-28T18:03:58Z",
+  "generated_at": "2026-11-28T18:05:18Z",
   "coverage": {
     "issue_limit": 1000,
     "issues_fetched": 58,
@@ -27,7 +27,7 @@
       "url": "https://github.com/MoradST/OpenWave/issues/57",
       "author": "MoradST",
       "created_at": "2026-11-27T10:39:24Z",
-      "updated_at": "2026-11-28T18:03:41Z",
+      "updated_at": "2026-11-28T18:04:57Z",
       "state": "open",
       "comment_count": 0,
       "category": "Technology"
